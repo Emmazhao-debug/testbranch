@@ -407,15 +407,6 @@
   },
   {
     "ModuleName": "Plugin",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:27:01.2052372+08:00",
-    "ModuleType": 40,
-    "ToRemoveFiles": [
-      "Plugin\\ActiveReportsJS前端报表命令-9_0_100_0.zip"
-    ]
+    "ModuleType": 40
   }
 ]
