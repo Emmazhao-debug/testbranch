@@ -1,20 +1,38 @@
 [
   {
-    "ConnectionString": "Server=xa-dd3-bks;User ID=forguncy;Password=xA123456;Database=test1;Port=3306",
-    "Remark": "sss",
-    "DataBaseType": 6,
-    "ID": "MySql1"
-  },
-  {
-    "ConnectionString": "Data Source=10.32.2.196;Initial Catalog=workflow;Persist Security Info=True;User ID=sa;Password=xA123456",
-    "Remark": "jeffery's db",
+    "ConnectionString": "Data Source=xa-dd3-fs14o12;Initial Catalog=TestDB;Persist Security Info=True;User ID=sa;Password=xA20200326",
+    "Remark": "给数据库连接串添加备注信息",
     "DataBaseType": 1,
     "ID": "SqlServer1"
   },
   {
-    "ConnectionString": "Server=xa-dd3-fgcp14;User ID=root;Password=xA123456;Database=brantytest1;Port=3306",
-    "Remark": "阎琳",
+    "ConnectionString": "USER ID=C##OracleTest;DATA SOURCE=xa-dd3-fs14o12;PASSWORD=xA123456",
+    "Remark": "Configuration\r\n Client ID 4d36e307-8090-4bc8-8bf4-c729b98d060c\r\n Client Secret kXp8Q~SUr3ifFoK~M3tyvaST7DWWi6__GL0Vbaxh\r\n Test Port number 12345\r\n Account   xa-forguncy@outlook.com /xA123456\r\n",
+    "DataBaseType": 3,
+    "ID": "Oracle-19"
+  },
+  {
+    "ConnectionString": "Server=xa-dd3-fs16ms8;User ID=AutoTest;Password=xA20200326;Database=testdb;Port=3306",
+    "Remark": "xa-dd3-fs16ms8\r\nAutotest\r\nxA20200326\r\n请不要连接测试库\r\n",
     "DataBaseType": 6,
-    "ID": "阎琳"
+    "ID": "MySQL16"
+  },
+  {
+    "ConnectionString": "Host=xa-dd3-fgcp13d8;Username=postgres;Password=xA20200326;Database=EmmaTest;Port=5432",
+    "Remark": "连接postgresql 13\r\nxa-dd3-fgcp13d8\r\npostgres\r\nxA123456",
+    "DataBaseType": 7,
+    "ID": "PostgreSQL_13"
+  },
+  {
+    "ConnectionString": "server=xa-dd3-fgcp13d8;user=SYSDBA;password=xA20200326;schema=TestDBSchema;port=5236",
+    "Remark": "Dameng数据库",
+    "DataBaseType": 8,
+    "ID": "DaMeng1"
+  },
+  {
+    "ConnectionString": "Driver={MySQL ODBC 8.0 Unicode Driver};server={xa-dd3-fs16ms8};uid=AutoTest;pwd=xA20200326;database=testdb;port=3306",
+    "Remark": "通过ODBC连接mysql数据库",
+    "DataBaseType": 4,
+    "ID": "Odbc1"
   }
 ]

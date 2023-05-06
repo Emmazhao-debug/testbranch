@@ -1,0 +1,162 @@
+{
+  "Rows": {
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontFamily": 0
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body"
+      ]
+    },
+    "CellStyles": {
+      "24,56": 0,
+      "25,56": 0,
+      "26,56": 0,
+      "27,56": 0,
+      "28,56": 0,
+      "29,56": 0,
+      "30,56": 0,
+      "31,56": 0,
+      "32,56": 0,
+      "33,56": 0,
+      "34,56": 0,
+      "35,56": 0,
+      "36,56": 0,
+      "37,56": 0
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "PermissionData": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
+      "permissionResource": {
+        "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionResource, Forguncy.RbacPermission.Core"
+      },
+      "permissionBindings": [
+        {
+          "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionBinding, Forguncy.RbacPermission.Core",
+          "roleNames": [
+            "FGC_LoginUser",
+            "FGC_Anonymous"
+          ]
+        }
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  },
+  "Pictures": [
+    {
+      "Name": "2f8350c7-74a1-4968-a77f-60f6c4998eee.png",
+      "ForguncyPictureName": "download.jpg",
+      "ForguncyPictureSourceType": 0,
+      "Stretch": 2,
+      "PictureCommands": [
+        {
+          "$type": "Forguncy.Model.ShowMessageCommand, ServerDesignerCommon",
+          "MessageFormula": "浮动图片上的命令!\r\n"
+        }
+      ],
+      "StyleInfo": {
+        "Fill": "linear-gradient(30deg, Accent_6_0_174 18.993%, Background_1 100.000%)",
+        "StrokeDashType": 8,
+        "Stroke": "black",
+        "StrokeThickness": 0.0
+      },
+      "IsAutomaticStroke": false,
+      "IsAutomaticFill": false,
+      "Location": "40,40",
+      "Size": "373.2866516113281,106.65332794189453"
+    },
+    {
+      "Name": "e153db6e-69db-4f07-8948-6e44474c976e.png",
+      "ForguncyPictureName": "download.jpg",
+      "ForguncyPictureSourceType": 0,
+      "Stretch": 2,
+      "Transparency": 0.6874999999999984,
+      "PictureCommands": [
+        {
+          "$type": "Forguncy.Model.ShowMessageCommand, ServerDesignerCommon",
+          "MessageFormula": "浮动图片上的命令!\r\n"
+        }
+      ],
+      "StyleInfo": {
+        "CornerRadius": 13.000000000000078,
+        "Fill": "linear-gradient(30deg, Accent_6_0_174 18.993%, Background_1 100.000%)",
+        "StrokeDashType": 3,
+        "Stroke": "Accent 6 0",
+        "StrokeThickness": 10.0
+      },
+      "IsAutomaticStroke": false,
+      "IsAutomaticFill": false,
+      "Location": "560,60",
+      "Size": "300,80",
+      "BoxShadowString": "0 0 5 10 Accent_2_0_203"
+    },
+    {
+      "Name": "a0caabc6-879b-4bbd-8ec8-04141ac8b76a.png",
+      "ForguncyPictureName": "fgc_logo_light.png",
+      "ForguncyPictureSourceType": 0,
+      "Stretch": 2,
+      "PictureCommands": [
+        {
+          "$type": "Forguncy.Model.ShowMessageCommand, ServerDesignerCommon",
+          "MessageFormula": "浮动图片上的命令!\r\n"
+        }
+      ],
+      "StyleInfo": {
+        "Fill": "linear-gradient(30deg, Accent_6_0_174 18.993%, Background_1 100.000%)",
+        "Stroke": "black",
+        "StrokeThickness": 0.0
+      },
+      "IsAutomaticStroke": false,
+      "IsAutomaticFill": false,
+      "Location": "40,160",
+      "Size": "373.2866516113281,106.65332794189453"
+    },
+    {
+      "Name": "5e8ff84c-1abc-4166-b7da-174583a646c1.png",
+      "ForguncyPictureName": "fgc_logo_light.png",
+      "ForguncyPictureSourceType": 0,
+      "Stretch": 2,
+      "PictureCommands": [
+        {
+          "$type": "Forguncy.Model.ShowMessageCommand, ServerDesignerCommon",
+          "MessageFormula": "浮动图片上的命令!\r\n"
+        }
+      ],
+      "StyleInfo": {
+        "Fill": "linear-gradient(30deg, Accent_6_0_174 18.993%, Background_1 100.000%)",
+        "Stroke": "black",
+        "StrokeThickness": 0.0
+      },
+      "IsAutomaticStroke": false,
+      "IsAutomaticFill": false,
+      "Location": "40,300",
+      "Size": "373.2866516113281,106.65332794189453"
+    },
+    {
+      "Name": "ea5821b7-d764-4703-83f9-ad0b2834a59d.jpg",
+      "ForguncyPictureName": "download.jpg",
+      "ForguncyPictureSourceType": 0,
+      "Stretch": 2,
+      "Location": "820,400",
+      "Size": "230,180"
+    }
+  ]
+}//+Q2wB98q/WBrlu6xkVSj73gUaHJRe5uyINc+n8VJFKD/JiQOwQ/K8KdeFPuBKeA0kkEsYPq1dTgmpg2zoHDYt0Fk/GwG2LdSIXT2CO5ezKmmNiu1ohOqyhf9/1/fFkw7TUo0YxvAjvkhOp995ciK8DVFLweFvB15YicpGivRjKbb0V4P7VtWudaCj1xJgyxPia7tIVrJU3ZOXKPGmakT1vOKvZ5ioAqpk2DHgQRszZIf4i5zyYSeFTgNIfJ2fzO3LfRxrYX9yZSCi2d3m1li46v0ClrJmNw3LrsPTJ+cr31EF0MkJjvCfSeZKLpwbmXIUKhJ/1LhCSbD/+1yfWtMGM+dYDBkPWQrS4x5soROGLrLNmbR6srj4BHzIWVzm4KiE+1E7Vpifa9OwWCWCZzHEXni+t5rkzTITDcQ4R1/QEDjPlXAEZyUOncCrIhHqH8Dx+JZjWBAcFZkmIRrWv0UN7aYJ5ETWL/shnCfW840yfmUaqai4jY8WsY8LEMoIJUQOE+vu4V5vBfYTpNR2FAAicZHW98AiZWKMkETwQxfHzO7piB4wP5/RGOIkd9HeeVwGIFGxpONNgQ6dolHBbnYVcB58OVPdSByqWJ9+as/57GoeyBorvZ6q9OD/LbV/aD/QPC0hr3S0l6Hpos6I9UAVEaxyc89cSdNsiEY9YcRj7BEeNzZ0mv7mTFV0beil6Dbgwt9NvYZeKEQDSo2adk9E0bw8s5/lZYdotE0/qcrPwOQL2Zbjd6ZWw7T4wa/P4xcuy2fMK7gOLZBGXRiahi0pSyJNMA9UPOYziJxkHlKNjAr165+O3VK6FuhNBSroo0RIaa25o39eWRNNz6tSTBt2FUA4/dXetzdoWsEovJm+HlzeSPKPetSCGW3Hrd2FY0/uvOXAiDwL88QpQeP8QWHlg==|920

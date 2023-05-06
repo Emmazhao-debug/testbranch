@@ -1,0 +1,145 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 30.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      }
+    },
+    "Count": 3,
+    "DefaultSize": 30.0
+  },
+  "Cols": {
+    "RowColumnAttachedInfos": {
+      "0": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 60.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "1": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 60.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      },
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 60.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      }
+    },
+    "Count": 3,
+    "DefaultSize": 60.0
+  },
+  "Values": {
+    "0,0": "User Control",
+    "1,1": "command"
+  },
+  "AttachInfos": {
+    "1,1": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.ShareCommand, ServerDesignerCommon",
+            "ShareCommandContainerRefer": {
+              "ShareCommandContainerID": "680f3eb3-f561-4586-8a14-36ca37536963"
+            },
+            "Params": [
+              {
+                "ParamReferObject": {
+                  "ParamID": "78a4f0b0-0ae5-4017-85b7-dc0483253fbf",
+                  "ShareCommandContainerReferObject": {
+                    "ShareCommandContainerID": "680f3eb3-f561-4586-8a14-36ca37536963"
+                  }
+                },
+                "Value": "Share Command",
+                "Remark": "测试前端显示警告"
+              }
+            ]
+          }
+        ],
+        "Text": "command",
+        "TemplateKey": "_RS_Normal_Style2"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Types": {
+      "Strs": [
+        "Body"
+      ]
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.UserControlPage, ServerDesignerCommon",
+    "PropertyDefinitions": [],
+    "CommandDefinitions": [],
+    "PageLoadedCommandList": []
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  },
+  "CustomNames": [
+    {
+      "Name": "SetCell",
+      "Formula": "UserControl!$A$1"
+    }
+  ]
+}//qAb1ayfoK2YrOJN7E46Ln/mhXnNPxb1ELGzcetJ8hUDgW1Wdl2YQetvZzPvD+2DOmNc4bTugVwcVeUkW4KC9xfcUPpC5Z4EpGprISNRRrTuHDIrXfBQ4cnJbphK151mwlufU9Fzjpld2ZKhNkJgwL3Mii+ypI3XFFhuAaSfC5vvXnc9t85oaN2K9jWJBUMwjI9+do3P8a0UPp6SI2q1aTvEabU5enK79P9UYi4SL2ZsK25ykZaX8C0mNi1gydNSWMk35ArTMq15lZwghVQpM+jPFo+Xag/chelYYvrhjuY4vYWx60b3mpm8i9tyn9Efcyt/vCQ00FNJZlaiS2Xp1xqO48xV3TuqoYaf3C5ugIsGjcV2xIclBY2L70LDFrSFQzTzbGQU5km9TvkAlacHQcKPy1vT99a2QpanBPCEBQ6yLW5znjPDKdN0hJ/7lPH2tkiJ0rqkdLHdx+Nwgk3OLGvTGElnN39XmWY8iP61ETFnC3NNlMMIZ7N2AAShi1IJKXgbo7vdcKihZvcoLRy8Ua7II29F+gV+lS4rthnHTbV0Y08JlbM00Epl24zAA3PuHve7jzkB98FrrWD1jeRMf+BUfQd9LQdRTyFlF2hfn2JNoimKIyWqUZVhE8rE3d2/YdIVwBLDsZX65yq84hK+X1rVTEecBr7ydm9GPRpXM6XZkUSLY1jsE4L9qMR5KPTJYHHGxUQ55ZdQK81o4CnVp9Ww7tWFY+o+B1cXiho0vokU6QscWoP1BYxZyMRji5I7JW09m54Gixvo3BElO5eM43dCiH0ZImZ30ekzNW4ThrboMXmmcBBGUkg+hFDvXSqBPmcGh6WM0S0d5B63Ot/gY+v+UuChslJTcZk2U+h0ZZCkmr4idr+DQCFZZTYHX2KGu680rapT1+m+Bnq4ETRj9zA==|920

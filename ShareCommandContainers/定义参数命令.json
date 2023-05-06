@@ -1,0 +1,19 @@
+{
+  "Name": "定义参数命令",
+  "ID": "eb9684a6-75fd-48af-abf7-1ee5f9f9043b",
+  "Commands": [
+    {
+      "$type": "Forguncy.Model.Commands.SetParameterCommand, ServerDesignerCommon",
+      "ParameterName": "SetCell",
+      "ParameterValue": "value in share command",
+      "ID": "8e045d563ab64282b225ebfb33871f7f"
+    },
+    {
+      "$type": "Forguncy.Model.ShowMessageCommand, ServerDesignerCommon",
+      "MessageFormula": {
+        "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+        "SerializeProperty": "=SetCell"
+      }
+    }
+  ]
+}

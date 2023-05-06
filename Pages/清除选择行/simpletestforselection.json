@@ -1,0 +1,202 @@
+{
+  "Rows": {
+    "Count": 45
+  },
+  "Cols": {
+    "RowColumnAttachedInfos": {
+      "2": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 43.0
+        }
+      }
+    },
+    "Count": 60
+  },
+  "Values": {
+    "11,31": "清除选择行",
+    "21,2": "User Control"
+  },
+  "AttachInfos": {
+    "3,2": {
+      "ListViewInfo": {
+        "Name": "表格1",
+        "TableName": "汽车企业信息",
+        "RowIndex": 3,
+        "ColumnIndex": 2,
+        "RowCount": 16,
+        "ColumnCount": 27,
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_Medium2",
+        "ShowColumnHeaderInDesigner": true,
+        "IsRowHeaderCheckBoxVisible": true,
+        "ShowEditStatusIcon": true,
+        "UseSimpleBar": true,
+        "SelectionMode": 1,
+        "DisableAutoSelectRow": true,
+        "AlwaysReservedSelections": true,
+        "ColumnOperation": 2
+      }
+    },
+    "3,31": {
+      "CellType": {
+        "$type": "SelectionPanel.SelectionPanel, SelectionPanel",
+        "ListViewName": "表格1"
+      }
+    },
+    "4,3": {
+      "BindingInfo": {
+        "TableName": "汽车企业信息",
+        "ColumnName": "ID",
+        "GUID": "b2c8059b-e801-4da2-a877-e14fca522c66"
+      }
+    },
+    "4,8": {
+      "BindingInfo": {
+        "TableName": "汽车企业信息",
+        "ColumnName": "企业",
+        "GUID": "4ec5801d-e1d8-49d2-8fd9-97284cc07d09"
+      }
+    },
+    "4,14": {
+      "BindingInfo": {
+        "TableName": "汽车企业信息",
+        "ColumnName": "联系人",
+        "GUID": "00feb04b-c3a2-4bf6-bd74-80f6232f9709"
+      }
+    },
+    "4,21": {
+      "BindingInfo": {
+        "TableName": "汽车企业信息",
+        "ColumnName": "电话",
+        "GUID": "22847349-d5ed-49c7-a8de-babafb096aa6"
+      }
+    },
+    "11,31": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.UpdateListviewCommand, ServerDesignerCommon",
+            "ListviewName": "表格1",
+            "UpdateType": 6,
+            "UpdateListviewCommandRunTimeMethodSetting": {
+              "MethodName": "ClearAllSelectedRows"
+            }
+          }
+        ],
+        "Text": "清除选择行",
+        "TemplateKey": "_RS_Normal_Style2"
+      }
+    },
+    "19,15": {
+      "CellType": {
+        "$type": "Forguncy.PageNavigateCellType, ServerDesignerCommon",
+        "PageingListviewName": "表格1",
+        "FirstImage": {
+          "Name": "Arrow/347_move_first.svg",
+          "BuiltIn": true,
+          "Color": "Accent 1"
+        },
+        "PreviousImage": {
+          "Name": "Arrow/349_left_arrow.svg",
+          "BuiltIn": true,
+          "Color": "Accent 1"
+        },
+        "NextImage": {
+          "Name": "Arrow/350_right_arrow.svg",
+          "BuiltIn": true,
+          "Color": "Accent 1"
+        },
+        "LastImage": {
+          "Name": "Arrow/348_move_last.svg",
+          "BuiltIn": true,
+          "Color": "Accent 1"
+        }
+      }
+    },
+    "22,2": {
+      "CellType": {
+        "$type": "Forguncy.UserControlPageCellType, ServerDesignerCommon",
+        "UserControlPageName": "清除表格选项"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderRight": null
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body"
+      ]
+    },
+    "CellStyles": {
+      "3,8": 0,
+      "3,9": 0,
+      "3,10": 0,
+      "3,11": 0,
+      "3,12": 0,
+      "3,13": 0,
+      "3,14": 0,
+      "3,15": 0,
+      "3,16": 0,
+      "3,17": 0,
+      "3,18": 0,
+      "3,19": 0,
+      "3,20": 0,
+      "3,21": 0,
+      "3,22": 0,
+      "3,23": 0,
+      "3,24": 0,
+      "3,25": 0,
+      "3,26": 0,
+      "3,27": 0,
+      "3,28": 0
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "5,2,14,27",
+    "3,31,7,19",
+    "11,31,2,6",
+    "19,15,2,14",
+    "4,3,1,5",
+    "4,8,1,6",
+    "4,14,1,7",
+    "4,21,1,8",
+    "22,2,20,46",
+    "3,3,1,5",
+    "3,8,1,6",
+    "3,14,1,7",
+    "3,21,1,8"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "PermissionData": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
+      "permissionResource": {
+        "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionResource, Forguncy.RbacPermission.Core"
+      },
+      "permissionBindings": [
+        {
+          "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionBinding, Forguncy.RbacPermission.Core",
+          "roleNames": [
+            "FGC_LoginUser"
+          ]
+        }
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  }
+}//X4tW2TZOTG7D/1x1CINeXoN4Zml7o+ZKBy5zWQYfBFjjyDRpXSLYe1DeTaETFln64yNtgmnbL9dtBYTGTnRqneCMSSc79KjDXnchWtF/qbmu6HB8kzdAcvlxozvgDQlJ59rbN0JpweoKB920bgLSx1hJ7LSrMkT/h7X4H6Ocl/0BfxKnuc4a4H3kPMOstgsrbm3ZwgOBEWSOlnSpxMBLcRrajprfdCmI0UHGxevMIef3j9/WIuN9InBUM3f+aDckIQtEaSGuCJmMgSHqxNxFyWpL8Stkrx073wMyn612uRWaHCEoL9+VjM53iefDWqr5WdM/yQ/J+S++oKusZNgiqh1XzMAnEDpOBTvTRJ+yPO8or+vGTUzmgW8VqwBatH59livAIjSbZGdDFoZNMQBYVJen2ZUXMtniQ/m8IDUvEYPs/K/xmGL+QjPqx4sKQbhYE3hPoHlsvTwOQr5Kz0sYaPv4AyAvBpuZZWgiJPFsP4uNKd8fp5+X3MjVBH82FaDnn6cQcU5ln+/XZG0ltbvkbrk/2zvK88BEoYm03OCMiciYZsaTEgkfv6/kEf4N+2BwWPwgn2kziDMJPdWHm3Jc1j49Q8dfvqjJNR5HcSnY1QD3n90cnY2UxfU7DNVvlyZTY4Qj6iWlKvNJ5PnwUuVYkyKdrqwkkWU0crO8FWggH+MJWNnbFkC5BoQJFgwzCHf77SzJrGWw22J2OAhm5Rvq355lBPUnvrGIs8qqhju+x2bgC8kf8L7Onod6vlvhVNDerLOq95hWgxQTQFoY1PWnHduLzN4BW0zz+LdJYs6mFbvC/l78RGbrDNlqW0py209A4ijXoZ7G/lJ9orLzz7eWA/CTBeu8m9oz/Z+v1/5G8Wg9DlBXMnppBQj/iNt3j+uPfPCzUvN9nNkEgx6S7q+KWQ==|920

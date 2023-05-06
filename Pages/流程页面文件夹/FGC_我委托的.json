@@ -1166,7 +1166,7 @@
               "ColumnBindingInfo": {
                 "TableName": "ACT_HI_COMMENT_View",
                 "ColumnName": "TASK_ID_",
-                "GUID": "fff8d390-d1f9-4202-84f7-5744f77c9fa7",
+                "GUID": "6bce926d-2c75-499e-abfd-bb676e7b3bb7",
                 "RelationBinding": {
                   "RelatedTable": "ACT_HI_TASKINST_View",
                   "RelatedColumn": "ID_",
@@ -1183,7 +1183,7 @@
                   "ColumnBindingInfo": {
                     "TableName": "ACT_HI_COMMENT_View",
                     "ColumnName": "TYPE_",
-                    "GUID": "1f92d20e-6723-4a7f-8ec4-d54c31832730"
+                    "GUID": "8ebc9eca-af3f-4dac-b23f-9b839e5f676f"
                   },
                   "Value": "委托任务",
                   "LeftBracket": 1
@@ -1193,7 +1193,7 @@
                   "ColumnBindingInfo": {
                     "TableName": "ACT_HI_COMMENT_View",
                     "ColumnName": "TYPE_",
-                    "GUID": "30c81992-f5d1-473d-8c5f-302e5af4c9f1"
+                    "GUID": "df829270-2c9a-4488-815f-d186dffec802"
                   },
                   "Value": "自动委托",
                   "RightBracket": 1
@@ -1216,7 +1216,7 @@
       "BindingInfo": {
         "TableName": "ACT_HI_COMMENT_View",
         "ColumnName": "PROC_INST_ID_",
-        "GUID": "82582a1b-f45d-4f64-8a36-23fb7ef7c32e",
+        "GUID": "84e5347a-5614-4b52-9ff0-4b25edd88e69",
         "RelationBinding": {
           "RelatedTable": "ACT_HI_PROCINST_View",
           "RelatedColumn": "ID_",
@@ -1233,7 +1233,7 @@
       "BindingInfo": {
         "TableName": "ACT_HI_COMMENT_View",
         "ColumnName": "TASK_ID_",
-        "GUID": "75c1520a-a323-447e-aa4e-07b54b44272b",
+        "GUID": "3d470a5a-6911-48c9-847a-e09870db09f6",
         "RelationBinding": {
           "RelatedTable": "ACT_HI_TASKINST_View",
           "RelatedColumn": "ID_",
@@ -1245,7 +1245,7 @@
       "BindingInfo": {
         "TableName": "ACT_HI_COMMENT_View",
         "ColumnName": "TASK_ID_",
-        "GUID": "1f3c23b3-d7b5-421e-bd23-65a85972fb91",
+        "GUID": "4c6ab8e3-6183-423f-a90c-922fb2af890c",
         "RelationBinding": {
           "RelatedTable": "ACT_HI_TASKINST_View",
           "RelatedColumn": "ID_",
@@ -1257,7 +1257,7 @@
       "BindingInfo": {
         "TableName": "ACT_HI_COMMENT_View",
         "ColumnName": "TASK_ID_",
-        "GUID": "5b96a51f-162d-4314-83c4-9d6f7567d634",
+        "GUID": "1e674594-d856-4443-b1ad-9e8d9a7fdf3c",
         "RelationBinding": {
           "RelatedTable": "ACT_HI_TASKINST_View",
           "RelatedColumn": "ID_",
@@ -1269,7 +1269,7 @@
       "BindingInfo": {
         "TableName": "ACT_HI_COMMENT_View",
         "ColumnName": "TASK_ID_",
-        "GUID": "362f4c15-b340-4bce-8225-4242479378bf",
+        "GUID": "87b07751-195c-4b36-9d8a-c684e4ee15bf",
         "RelationBinding": {
           "RelatedTable": "ACT_HI_TASKINST_View",
           "RelatedColumn": "ID_",
@@ -1286,14 +1286,14 @@
       "BindingInfo": {
         "TableName": "ACT_HI_COMMENT_View",
         "ColumnName": "TASK_ID_",
-        "GUID": "9b234c1f-b86c-4fcd-847d-b323fea11890"
+        "GUID": "603d57e6-9912-40e0-94a0-803420b20eed"
       }
     },
     "5,58": {
       "BindingInfo": {
         "TableName": "ACT_HI_COMMENT_View",
         "ColumnName": "PROC_INST_ID_",
-        "GUID": "decf8f3f-fe7c-467f-a4ad-8a641d8aee16"
+        "GUID": "da5108f5-1f7e-4dcd-b34e-d592940ec726"
       }
     },
     "5,63": {
@@ -1307,7 +1307,7 @@
               "ColumnBindingInfo": {
                 "TableName": "ACT_HI_TASKINST_View",
                 "ColumnName": "ID_",
-                "GUID": "cbfa65d1-ff8f-49e9-bb13-d9ab3a926148"
+                "GUID": "c8c5b0be-94fa-428a-9a99-7faeb037b38f"
               },
               "Value": {
                 "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
@@ -3010,4 +3010,4 @@
     "PaperSize": {},
     "Margin": {}
   }
-}//PVF59QQluBZQxJJkPFmbLpidYi2/bvCT5nj24QMI59kuFnwVMBuMg3kXzLyQKoP2CnAhS/nDprWQzcGlgj+jPLiwBQAQXLL6EOAHYKEVvidDZVEVUUDWUOVT2ZqPWOSwIVvKTdXw0kvkPUTTt+6EQFXL2sDV5TudvHOoDrx6npXDvb2/omvqW+jMQ32p87f0EkFsJ67GPEOwXoTtFqyUejwglHvTcRNRJvr6v7KcdpYcOzTgkGzyW5sx0OoR9/oJgCLkQLzR7naJHzHpThgF4csy7yB7dk4Cc7hnu1FYzSH3JIcWr9X5xo20sEz7Sdzqrbfh5SY44X144A9MLlJmPYp9MfcfYzJcQFZbMJmIpe7fL5a/COFPD0h1AapvEXiTfJJylKsukM3iUdOxPJQxSUCqZsqJcALVTO0c2HbFVmBRoZv4nBfJ+xsiSkMqSR/6ROGyriJtf6uAeiZF0PO2Wvjg0PWYHIHhXJ+bgpehu27veA8S88QwQwaIB7Nh0KYdjr/seHDp15k6N5WEvUQ69ueac7pLx5scLMXAaFvb+1/hpRJaX14hfYZdTnUN4NLGiQD63pG/PuSd4Pc0AXyQW1K5/Qv3sBlEp1CnFEWEDVUX2NL5m2Zqkdwap6/JpnGndqaqsgg9+tuuJhCShUnkpWwkqPIPUBTz5klhCgt3r62PUduFhwdpopqXt1CS3pzLAScJ5qHIPeKAXdeeJxQ6SqzaT/0Soo/uMCYz+1wrV7jxayEWJrQcgPsMuZXDDRo3/b/DvJ8Gja1dmnBy107KirZqCrOrFc9+C2d+zVuRkGF1iBvXmhysOXXg5tDX0RefXIvvwjLSmnXyyhu1ZnKKYllULCT+PV5/+6SFVMpSqbROEaUusurVEa36S4LCCX70cC9U+N6V8nYB32yeu5415g==|920
+}//loYMTy3/2ldlDatQxrawwv1zdxZ96N/gq8b3m2NFKSZZjmH3y0GBztmIsSPaurQXuzZgnxLJ0sDUjFHBU5wIL33+my3IbE/JJNojBaR2Hf+cBSSIBjTQeS4uwJDScrK5CjLZR0YUzz8fJ4TXl/zH9r08HIoZnBEJ0psYkuHgvicUkrVlw4zRVGeERplEMyvF89OdqD4/9GFvv+mSTeqsBKGs+x6YHeIUhyL8Q7gBMWgrVj/0482xtrj/al3LwT5AL73TjPwPEvAqXzM3ykZWCrHVLn/7l8+HJa9rGQgfbgeVfWB+m9STOJgY2Tq/2SnZZMkEKtbCOluQOK4mPfOvtxHaI9R7KQnMc0UsYusvPQy/1VnCT7XaUhdJdaBQ/Ogf+HMSHvAgtk5T+dnjROxq8VfrpoJnAWuxu8Id+D3k/AQMcQcbMWaKT+5qogp+ziqCPUBuz2IehXErDa1rh9FEs1dcLwdlX0BfTxh37IBVDpkDLi7iiAlCdp9qMLF6mXE3WPxd5nfIwjNA+3/Z49Vx/cTUdmOmDDsGQeERff+d3771IdQMeLa9MrCWkTmRwpAHqDxv4iZJtqtZeXNEZaSLlwyqD7+e7glHfKzI8lnwOFJQcdgOlB2gnoa6QHV35snTplnMIzJH3a2h98EK1/uVEN1izGfVnHOAXxTOh2MqdHQG/SeoGmtvmEmFpFh2V9WwTr9WBCeMnrbXFIQflzgYEmvfo+DAFMmgPj8ICt/TVxWcM99iCY3TwH9dod78RFN2UeBRAPR1MdNFRApVW48SgFKvqnGKMV1TeZW9MPGMloWLI1rL2x0gMtSz3bOrAQ9WoUDDK5iuN3QZ5jcD6THXTzei0hZz3uUiEUCtXCZ9uoHtpW8hVM7M59H9ajA8K9VP4F8SnG9nYsdA63MwcmoYpg==|920

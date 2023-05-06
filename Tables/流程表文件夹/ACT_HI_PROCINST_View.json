@@ -25,7 +25,7 @@
               "ColumnBindingInfo": {
                 "TableName": "ACT_HI_PROCINST_View",
                 "ColumnName": "START_USER_ID_",
-                "GUID": "f22a9163-095e-4470-bf87-aa8ecda0187e"
+                "GUID": "c11e0789-c7bf-4169-8bc2-20b07382bfe2"
               },
               "Value": "%CurrentUser%"
             }

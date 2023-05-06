@@ -1,0 +1,20 @@
+{
+  "Name": "命令参数",
+  "ID": "680f3eb3-f561-4586-8a14-36ca37536963",
+  "Params": [
+    {
+      "ID": "78a4f0b0-0ae5-4017-85b7-dc0483253fbf",
+      "Name": "SetCell",
+      "Remark": "测试前端显示警告"
+    }
+  ],
+  "Commands": [
+    {
+      "$type": "Forguncy.Model.ShowMessageCommand, ServerDesignerCommon",
+      "MessageFormula": {
+        "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+        "SerializeProperty": "=SetCell"
+      }
+    }
+  ]
+}

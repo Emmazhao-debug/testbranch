@@ -537,7 +537,7 @@
               "BindingInfo": {
                 "TableName": "ACT_RE_PROCDEF_View",
                 "ColumnName": "ID_",
-                "GUID": "bb75ab9f-3e85-43b2-8978-d1b6879ddfe1"
+                "GUID": "7d95859f-52d6-4972-95dc-46a32a8e8794"
               },
               "ColumnName": "ID"
             },
@@ -545,7 +545,7 @@
               "BindingInfo": {
                 "TableName": "ACT_RE_PROCDEF_View",
                 "ColumnName": "NAME_",
-                "GUID": "1312ed36-07b4-4a16-aaf9-0136ab68705a"
+                "GUID": "9392d370-1472-46f5-afd5-485281d47c7d"
               },
               "ColumnName": "标题"
             },
@@ -553,7 +553,7 @@
               "BindingInfo": {
                 "TableName": "ACT_RE_PROCDEF_View",
                 "ColumnName": "DESCRIPTION_",
-                "GUID": "4735e302-bc09-411f-bdf7-ce62e539dcb1"
+                "GUID": "4f951c9d-763f-45f8-a1f4-8638fee00834"
               },
               "ColumnName": "描述"
             },
@@ -561,7 +561,7 @@
               "BindingInfo": {
                 "TableName": "ACT_RE_PROCDEF_View",
                 "ColumnName": "VERSION_",
-                "GUID": "496405fe-1cb6-4e16-9173-d8e9401daf36"
+                "GUID": "1ab3e7ee-c2e3-476d-9aea-b631b80eb697"
               },
               "ColumnName": "版本号"
             },
@@ -569,7 +569,7 @@
               "BindingInfo": {
                 "TableName": "ACT_RE_PROCDEF_View",
                 "ColumnName": "SUSPENSION_STATE_",
-                "GUID": "6dda15f8-2d9a-42dc-8c33-cc8ada731b94"
+                "GUID": "fffa3d3f-4728-4dc4-8b9f-3c85fe2bf28e"
               },
               "ColumnName": "挂起状态"
             }
@@ -579,7 +579,7 @@
             "ColumnBindingInfo": {
               "TableName": "ACT_RE_PROCDEF_View",
               "ColumnName": "SUSPENSION_STATE_",
-              "GUID": "5deddf84-26c8-401f-bdfd-ef6528230ed5"
+              "GUID": "ad417838-780d-4ed7-a1bc-b7bbcf556239"
             },
             "Value": "1"
           },
@@ -664,4 +664,4 @@
     "PaperSize": {},
     "Margin": {}
   }
-}//AZfgjwNPIIZXu3MH+NGnCpwunVTIX1ynBZtys2og+LFlYts7ltxp5ToWS+3PrQa0WEObTPFuVS+HHdLbXYWWmA7LuOkLMT2sWoz9kYf8pFCNFugLrwZOimUJkPWDvdqWHRHvZgtMWBQmFxAfj8OXkr5GtnwnZO51x9T9gCBu0mApuqB+7e3yN1JJ/XKpLVi1UZOADfQPST6YCYhv5lvL+gP6ug8t+ADFM+j5vfQoQjOBJptqGOtvWRjMhzM+/F78O8A5DBpGj6cciLZHJKY91t3nCHYmjAaihGRibQxIZHfB2Q7c/l2gJN75H0g00DIitJzeji/SVYYok8FDxH8/WfZCcLFRwvD15y2KY061DjJWFz2dgv9VbJgIkMJHSSvVqtYYZAbW+d3dqblxlVOhDPPVRJENIdJgdyzBfpgQYz+tjiroaUeLJK9Qjpx663BDGEce0OFzniaLeOt0y/lvii4bXfY8TjSnVcMAQFA9pXxWc46QEyOz1XQkQwm0zNS/lzreXd2OvDt0nXJVv+U8XdBX6AIASoyHGBrL8fphrVbzvhrLkHHEBC6pfQn3+flC+vSAHwuqsZu7UsVlEex/t14tj0OVFES92gWjaTzs5x9zzQ8AndqJ4pzy3wveIYmj3WISACLTKz4gsz8e+U8jpCi8aUdGBORqrtkgifG6ClQpDY3V+d2Mye4CO99wqPB/NfgdorIlsarWSkUrGsbUftL3g4qomh3SYhAKNi5f+x4awns8EYEvXwG2jKagss2GaTman9f+5zdpoasj6BlncRfu3vDhQAv2S58Od7YnKRoykiBnq4R28vxZGUaBq57i0uxlaFjOzvyBj7M/pLNK1Up65ArlB/3UuPS3/XUKxHI8RoIIza+9aae5Kha2rYIaQEg4dgkPvAjeJdZWcuCREg==|920
+}//vW+OuT+9TJdliEAt9FbfasUqpkNpMUxoaBpwU6ZhUbpxlEXClcqcIR38bCTUjWGPukBL1BoFzJF+rK4V8f/7yqZ3w+fpdd9WbOm/nSRFwKbJekMwT47nk2fvU1RAG5ULmqm1HV637JPCe3xfqtH4VM/+EC+20+5lkZ+ayNs4KOqBL6IrAsTZTqymklYiqeXFv0QpuYI1nk+nnHkFRo9PTxxxplQFhm45/Q5vD6pEjBz9FhgV8ctoGi3TEotoP5XCvd1a7TNThaFMfrF6k4GyAS6gXhdTcVWX5w7kAmdkSAZzycYZ/w8WQJHgF9DcAg0dawT9lrDjIf4oyiAiekuIEaJJzpFXwDyVQXko+izRtT0sux0oLYcou7BPi2t0c22GUu6tSvZxiVbnWcbOPcNFomCt3khVwFOdf/F20+c1OpN6iUJWGNXhpDYRY32RpwrAhcHCqR7Zlzeu7qqW9LC0zZP6isqge1JA4pN/4puN6UKwfW+SbGNNAug6OVUdEYto3z+eBcVQMmo65WAsDZZJ6Ur2cYsm8PFSV9ZQm0+VzA9hFzuBjoFdsTqI1FlbUs8Ij8rESDxtJt7cIa9m0gqhdyWItWAqT6h22XAZHo9qcMXCLMVu6cEHiWBkTvPQf0i65iSP20lKzo3InnbYEXoCkdDyRKEGx7dMNVFL9QOzbsRhlWRnarMC9fKbMGPa1QHbWwRcxCjnlKMvalSac/PFDd7M1rMzHk/cUrb3JUM03noO0UXpJKEfxQ6l/c50JGmXhgnkWzb/JNp02jaRC3CLE+ffT3Nd5CXAIHuKGObVRJ5ehf5QltmY1vdQVVwYYXPqAcvGL3Y5sFFVYkM+FKf3lmHPMEcPs3jepH9/ZRGVFcvNm5bB2VFFABhbZKlnKCr/w7Frnjh2xl5MjjzslF6fZw==|920

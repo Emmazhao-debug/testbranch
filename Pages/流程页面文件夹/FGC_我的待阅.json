@@ -1179,7 +1179,7 @@
           "ColumnBindingInfo": {
             "TableName": "ACT_RU_TASK_View",
             "ColumnName": "TASK_TYPE_",
-            "GUID": "9cdf1608-d58a-42c8-860a-2358994930a0"
+            "GUID": "58f37b82-4204-47a3-94e8-a1f17e391264"
           },
           "Value": "抄送"
         },
@@ -1189,7 +1189,7 @@
               "ColumnBindingInfo": {
                 "TableName": "ACT_RU_TASK_View",
                 "ColumnName": "CREATE_TIME_",
-                "GUID": "fcacbb3b-4eb1-4296-b5b3-daaea3bfc1f4"
+                "GUID": "00ef4ae0-dc08-4d32-ac63-f740f4734ee0"
               },
               "Order": 1
             }
@@ -1210,7 +1210,7 @@
       "BindingInfo": {
         "TableName": "ACT_RU_TASK_View",
         "ColumnName": "PROC_DEF_ID_",
-        "GUID": "9552fa6f-b1c8-4fa1-90d7-798e08005cc0",
+        "GUID": "891641db-fa85-43ea-8708-83d17867ecfb",
         "RelationBinding": {
           "RelatedTable": "ACT_RE_PROCDEF_View",
           "RelatedColumn": "ID_",
@@ -1222,21 +1222,21 @@
       "BindingInfo": {
         "TableName": "ACT_RU_TASK_View",
         "ColumnName": "NAME_",
-        "GUID": "46b057be-fe92-4e29-8d4c-6d245262c12c"
+        "GUID": "ff381e10-7a52-456b-bfa2-188e3f94e8aa"
       }
     },
     "5,24": {
       "BindingInfo": {
         "TableName": "ACT_RU_TASK_View",
         "ColumnName": "CREATE_TIME_",
-        "GUID": "499bb940-15fb-434d-a3d2-e9919578569e"
+        "GUID": "57440096-4455-4001-84b8-c1d4664ce63c"
       }
     },
     "5,34": {
       "BindingInfo": {
         "TableName": "ACT_RU_TASK_View",
         "ColumnName": "PROC_INST_ID_",
-        "GUID": "04f3407a-faa8-4a49-b26d-7c4550e2da58",
+        "GUID": "34c2259a-a9a0-4e67-ae3e-6dc6a7b51171",
         "RelationBinding": {
           "RelatedTable": "ACT_HI_PROCINST_View",
           "RelatedColumn": "ID_",
@@ -1248,14 +1248,14 @@
       "BindingInfo": {
         "TableName": "ACT_RU_TASK_View",
         "ColumnName": "ID_",
-        "GUID": "bc5cbde4-4779-4eb4-a4ce-23ef81f34a6f"
+        "GUID": "90b7a7fd-cb7c-4029-8784-5a6b3fdb7614"
       }
     },
     "5,58": {
       "BindingInfo": {
         "TableName": "ACT_RU_TASK_View",
         "ColumnName": "PROC_INST_ID_",
-        "GUID": "48a448bf-1f93-4903-927b-364a9f11419e"
+        "GUID": "08b3f123-f3c6-4cd8-9c1a-53a5a9234a10"
       }
     },
     "5,63": {
@@ -1586,4 +1586,4 @@
     "PaperSize": {},
     "Margin": {}
   }
-}//QiFAcxXCGho6op5Z4q+fyG6KL5TMyo5nHMhZihvzptLBhqAwJki/82NTABIcQxiOAUFg53eFTPI903QbUO6xzEzc/lblygVwlzKNEvFaMcSBRLQEricG9HzUn8RWQpqApossYY3BXy2MIaS22ZfdWTAk1ZGMduWr94r3VNtghX6Ds3Uw03UORnRkZdrVrwmw+5o2JGcAA3QlcpoZTUSwgiiHthop7nboUrbDS7jfr7WQYQrsWL4X0Y8gMcNFaoEhWKLa9iA7ck18RfxvXiHm+S/pN2zBWllm+Z2l0agtOP/VQVlsBvzYrfVy5q/FZ/GMEZHTA+/EPPZt8dNhvM4q+KlH3Hg4c1L3TmmlRfqirVpMXVzAaAKhuHxBbNA9tPiQalzbY5BTNR+5JnzdpMpIHiAcAmyccNdP5k+NCIAU2exq4tfjn51Zks/LgXjLt6z0jEifm8TxVjzPqxssmAXnIvE+VY+kYxYrAgKp5S6lNWInhGSeDiqAY85XNCsYs2iStovnEqYLB0ctv5TfKssfiyiI2CnCnJZLLNVa4DrEnPhjZB/Ms4BBxnCv+l1yd+S31VIBG3XYf0uE/7eZ4yP+YpOENDKLxJXKpqeBJ954q5691OPMVnu5nonxX7kaNd/2EDaSJdA5r9bDR6s8rea1jDnxk9o4D3KKOi0dgvrgUDRzr9PW54QZhP9bujODfvHVdoX2qqFvYWlPJY6f4vy+lwyTT0sj15145bT+I8Gcmb9uQvT2/78jvjfUdiOcBMhW+6SNYYFkZ4jpXab3irizzCCPM0W4b9NGj0Op7vGm9zYmWHwh4d34vJpSapDZKRsQPYgbUQvE/6i3qw+aphSdu5D1bJ+LPENjh/LqmvyW8pA0XVzKMEo4bPmRdQ/KvrCrfQBFtc7BBdZwarOikAORkg==|920
+}//lsvhdeI6+Lo2MJ2qRu5gBMbsThXgHsd6qlFEIFC3HfD8xMRonnzGnTvNJ7BgEQyNL+sFBWkocdlYfIVX3q9Yc51Bfyy69oCkGzjhylo/8wxNadkosgFiU6gjAOWzyi+H3Is08+Ku5b9FwU6qe7y3iUrnxhH6D/tjS1KzNEN4pyHqovTnKHeYOJVqioNS5W0S3fr/nSuqKqvi8JTDzQsrKurn/BTIePUC1gO3hmHc0MgoIIooKahV0UvcIfQYrcGkNkVZEYjZZASULywU8nyPgWPdBZIjbOQnKO0jtsMQ6MQuuFAhaAMEGGMQ6btkAuFtd0WpjN8jeLLM+GE3s1+aZ/1foAL4VDMJ/EayMH+WKRoBKlQDu4B3voxBUCTkP3v4hILbVmGDzZjQbdXi59mvlDjLuf1rADhLBpugl/botgHyt5z0Rpm0FqOSkW5lCeeHUscJPdE/WsgjTYFBfjnPkHtjCKqyMKSL7c1QraGoXurMwT0YGbQ1K6HG68OvmFHtKchdr1ObHGPzcLW7UJgFCRM2P8h0FEbksZT8ppXZqHMBYhqcioD1I9KS2sh6dbTqJ0ost8cQhnxIuUAIt9HLTMzuqzPUkDLIVtBZhL0omh5JyTc9l1eirzdPtGgB63E9xutV8z+tNZ07uTpUeZWVfB2XQ01wf4B6uP5do0RMySLxTdJ7hwbpRc5CyjC+7PDePYCzXe756zepmAG5Sn9USQUTMxoWEOXC0KkHJ1zscIsthpipsxbJ3aPRyPc+TlOCawU7dTeDUHlnROjisknd/ra7lxBSKUsnWEXnoKN3S+MP/SSdlzPo7bjks/HTS99Zfqg/wpCtFkx2AAn/ajeOykwKcK3owtU9FFypRIn3xvPlTam72ZoALYjFHWg9BDzTW1b/qbxt9py1f8SHKQa4yg==|920

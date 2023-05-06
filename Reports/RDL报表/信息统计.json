@@ -1,0 +1,104 @@
+{
+  "Name": "信息统计",
+  "DataSources": [
+    {
+      "Name": "汽车企业信息",
+      "GUID": "a5bd970f-3e30-4c51-910b-cd8e56ee3e42",
+      "DataSourceSetting": {
+        "TableName": "汽车企业信息",
+        "BindingInfos": [
+          {
+            "GUID": "27f262de-36e1-4bee-b4c2-cc0482dcfe91",
+            "BindingInfo": {
+              "TableName": "汽车企业信息",
+              "ColumnName": "ID",
+              "GUID": "2edb4d47-acfa-40e0-83ea-757b8f23d56f"
+            },
+            "ColumnName": "ID"
+          },
+          {
+            "GUID": "ca34b4ca-9b32-49cd-ad84-9dce34f8196a",
+            "BindingInfo": {
+              "TableName": "汽车企业信息",
+              "ColumnName": "企业",
+              "GUID": "c1f6239d-9baf-482e-bdd7-856d1f1b439f"
+            },
+            "ColumnName": "企业"
+          },
+          {
+            "GUID": "660bc9d9-1c0f-4653-bdaa-8548f0688d43",
+            "BindingInfo": {
+              "TableName": "汽车企业信息",
+              "ColumnName": "联系人",
+              "GUID": "c6b84471-7360-41ae-83f6-f80d65d2e684"
+            },
+            "ColumnName": "联系人"
+          },
+          {
+            "GUID": "35ed419f-668f-4bac-a5b6-0381a64f2df9",
+            "BindingInfo": {
+              "TableName": "汽车企业信息",
+              "ColumnName": "电话",
+              "GUID": "4e76d2d5-b3d7-49ab-a6ae-83da8c917697"
+            },
+            "ColumnName": "电话"
+          },
+          {
+            "GUID": "ab0b25de-770a-48fb-a496-a8cb0d38d596",
+            "BindingInfo": {
+              "TableName": "汽车企业信息",
+              "ColumnName": "地址",
+              "GUID": "8f030d92-16fc-4579-ab42-9e077469131f"
+            },
+            "ColumnName": "地址"
+          },
+          {
+            "GUID": "4a13159b-decc-404f-8734-ff8c4cf93cdc",
+            "BindingInfo": {
+              "TableName": "汽车企业信息",
+              "ColumnName": "备注",
+              "GUID": "d7bd2293-9d58-43ba-a701-4302d7413d03"
+            },
+            "ColumnName": "备注"
+          }
+        ]
+      },
+      "ColumnsType": [
+        "integer",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string"
+      ]
+    }
+  ],
+  "AllowAccessRoleList": [],
+  "PermissionData": {
+    "$type": "Forguncy.RbacPermission.Core.Impl.ActiveReport.ActiveReportPermissionData, Forguncy.RbacPermission.Core",
+    "permissionResource": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.ActiveReport.ActiveReportPermissionResource, Forguncy.RbacPermission.Core",
+      "type": 6
+    },
+    "permissionBindings": [
+      {
+        "$type": "Forguncy.RbacPermission.Core.Impl.ActiveReport.ActiveReportPermissionBinding, Forguncy.RbacPermission.Core",
+        "activeReportPermissionType": 1,
+        "resourceName": "信息统计",
+        "roleNames": [
+          "FGC_LoginUser"
+        ]
+      },
+      {
+        "$type": "Forguncy.RbacPermission.Core.Impl.ActiveReport.ActiveReportPermissionBinding, Forguncy.RbacPermission.Core",
+        "activeReportPermissionType": 2,
+        "resourceName": "信息统计",
+        "roleNames": [
+          "FGC_LoginUser",
+          "事业部经理"
+        ]
+      }
+    ]
+  },
+  "Weight": 2
+}

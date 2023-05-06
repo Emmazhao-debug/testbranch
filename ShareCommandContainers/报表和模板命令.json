@@ -1,0 +1,10 @@
+{
+  "Name": "报表和模板命令",
+  "ID": "87a71154-9def-4b7a-bf34-82257de74460",
+  "Commands": [
+    {
+      "$type": "Forguncy.Model.OpenActiveReportWebDesignerCommand, ServerDesignerCommon",
+      "OpenReportName": "信息统计"
+    }
+  ]
+}

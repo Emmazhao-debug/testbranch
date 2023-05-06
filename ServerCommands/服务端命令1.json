@@ -14,8 +14,7 @@
             {
               "$type": "Forguncy.RbacPermission.Core.Impl.ServerCommand.ServerCommandPermissionBinding, Forguncy.RbacPermission.Core",
               "roleNames": [
-                "FGC_LoginUser",
-                "FGC_Anonymous"
+                "FGC_LoginUser"
               ]
             }
           ]
@@ -23,36 +22,15 @@
       },
       "Parameters": [
         {
-          "Name": "参数1",
-          "Remark": "test\r\ntest2\r\n佛挡杀佛"
+          "Name": "username"
         },
         {
-          "Name": "参数2"
+          "Name": "fullname"
         },
         {
-          "Name": "参数3"
+          "Name": "pasword"
         }
       ]
-    }
-  ],
-  "Commands": [
-    {
-      "$type": "OperateFilesCommand.DownloadFileCommand, OperateFilesCommand",
-      "FilePath": "aaa"
-    }
-  ],
-  "ReturnProperties": [
-    {
-      "Name": "返回值1",
-      "Remark": "阿斯蒂芬"
-    },
-    {
-      "Name": "返回值2",
-      "Remark": ""
-    },
-    {
-      "Name": "返回值3",
-      "Remark": ""
     }
   ]
 }

@@ -123,7 +123,7 @@
           "ColumnBindingInfo": {
             "TableName": "ACT_RE_PROCDEF_View",
             "ColumnName": "SUSPENSION_STATE_",
-            "GUID": "795e9faa-fe89-4279-9422-5b156588b7c8"
+            "GUID": "e937ded8-a56d-4c47-819f-219d2eca6031"
           },
           "Value": "1"
         },
@@ -139,28 +139,28 @@
       "BindingInfo": {
         "TableName": "ACT_RE_PROCDEF_View",
         "ColumnName": "NAME_",
-        "GUID": "095dda2e-508e-443e-917d-d39e7dd7283c"
+        "GUID": "b19b78db-14f4-47c9-bb7e-849b647be316"
       }
     },
     "2,8": {
       "BindingInfo": {
         "TableName": "ACT_RE_PROCDEF_View",
         "ColumnName": "DESCRIPTION_",
-        "GUID": "d17e097f-a418-402d-a9db-8c284749a803"
+        "GUID": "39c7506e-75d7-4f35-bb39-185a7ae03f69"
       }
     },
     "2,21": {
       "BindingInfo": {
         "TableName": "ACT_RE_PROCDEF_View",
         "ColumnName": "VERSION_",
-        "GUID": "71cf2583-c79a-4fab-9efe-1aa4a5a3ef87"
+        "GUID": "1169f269-30ff-44c3-a553-7f6c38768dc0"
       }
     },
     "2,25": {
       "BindingInfo": {
         "TableName": "ACT_RE_PROCDEF_View",
         "ColumnName": "ID_",
-        "GUID": "441505e2-04ea-4216-9c24-3fdfe9ee28d9"
+        "GUID": "da2af3fa-93dd-499a-af12-da4c62a60388"
       }
     },
     "2,29": {
@@ -199,7 +199,7 @@
                   }
                 ],
                 "Comments": "如果流程发起后，存在当前用户正在办理的任务，那么弹出任务详情页面",
-                "ID": "5d54e473-c9d7-4351-952e-0d02d7a06a8e"
+                "ID": "c20e6c6d-8146-4199-92e8-592c6d9a4162"
               }
             ]
           }
@@ -326,4 +326,4 @@
     "PaperSize": {},
     "Margin": {}
   }
-}//JXZJJkHeXAeDhNRF/Haphe2eEM3sAWiLJZjBmS87Qn/vBXHRQ2cDh8ZPrTo4dwJOcdkWwxRxNLmYiKRjJurYLUGi9prOTESoYoZ73mmuTSUSUy11BOa6erM58x8PsNo4StKo236PVSEBDyvE6OxB+Z9txzBjWUitWZC7ueN22zAbkOjG8yRoPlMJ+dir/piMSVWc6ql2XaJk6Rzlms1HxdBH/f3n/cLSFH6AkjFv/5kHrJ1rof2T3CWkbEqRRYcoOqByLSGZzfKwGj/7rhkMOrV6lSZqKskopxkasq/qDl0A1b0x6KllvqG80s9mSFay4r/d/Amyvpynui7eGTPvxxsIWXPCxL/BYLr2nFcqRGuea8EFQ7bp4xbzeKbAsxicmtqbl4zTmVdl4pOy+eEwYRpe4STYIiOLZq2sGEDWGL+Fr+nkJcjEbR4j9hhMwi/N8llndzayHBgORHvkGcvwjIsanvHSQgiUb+PPKEkRyy6IajWcCVfRxbWABlK5mt8yw/EcnGA7vdmHJz1oUtUv2/50vFRgdAz0nuU8sXg+vf+beAMidDW6/MLftFNk5DvFymTIMrK7q95KYKon39JE7vJaKnDaCo8i2FkG5Mg2nbeuW/WRefIs6ARZDGihhzteXlrCFCJ10xurVM6OU5YXGfytUfGRSDvjK8NoVHjSUfhz8ZKNQr2BIiimIiNCmN9auUlWh85vpkpJmnH1+pGplSEvZs8TJznsP8ESFc6uoNoFSKlMA/P3XvW8RISCoxQW+3sBqlsL+wdFB/QWj/X2CSLOknLYKkrTW+uxG9KWQfUfZXCmQRucr6M+NZGviHUYvGo2o3Ualb2G34V54GJQ4IARbyt/wmpiVXMZR4q05aGp9eL1Sylm/C9an9/gMSzTrB3GEh5+JMg8lVda/JZ5sA==|920
+}//TBJNhwuUmnhNd+ouAXwGKiPN0VY1rS+hfwiC4WEwLZH7lytpKM33pkZbI9N6WtxcH1oo6ADghH/vbjAAFWLwFXN6hpG8tVJB3ogVbGJ95QQ+9eL5DAC/vK5JN8E9mN/d17JhZ/spHx0maVSbvZn9hAKGwrYUcLp5hLZ3t4R1SOG9ChddfLQpyRZ0hyD2IwZVQzTx1ErP0w00+FgifV93+NQm3cr9PIuDwx8xbD+hIKtE8nf+BtoD7FFDaI921M8KkI76o0DfFuf1xxcfXnUoKJlsEP/GcSM3RwkV+mo43B369sgcEtiwZa9oWImwxgOI6+CUahsNvcvoEqbv3JE/H+llsEaE0BiQO2aPHEcrma9mC8ygJ9frvnl5k8wN7NdkTQDC2G8ykCWpK6M0HZI0/Klhb/ThXKRQ1WgmZpS142Fhu55Z3Ogn+5SFO4szuIzdORRNl9X666AKQEpMJ3pqpJpD8+K7w0c/1TuYzV31thtC8yYtSiJK6e3ZyPFyX8OybQrVP9uUdLY3yVx5IEV8wl8KNgmb57K560QzqCfj/U8HdaA6PbiLlsbGEGGw6H1FVBbkG3GkC1OyQ7IGNlB/B7UQoFU3BL2KoOEzRqiPodLLoJsQv869DDa3liaGqLQn1CyVhl46Ht6DVAaRWmXu3UR4znx1SoLMpHJfxeoKXbaJjq7JuGRptkHCWEzxS3BTBmc7lAClPZICKR8xNGZOuonodKH3Jmu9diR0ld+orzNfhuliFH339XWp7XClYNPyvz7LO/P2sa0dM6L5iTLYxJPQu1YtJujkvpEs202qi8l+491GgL72FO5u9SrRddnC/sSsfodmJIJ7R7GWypQaZ3TeurmbNVQtgHUvf0wYUcrLT6KyoxUk3ZFlniBvu5CogrNJvoMJeN72JRua7NednQ==|920

@@ -25,7 +25,7 @@
               "ColumnBindingInfo": {
                 "TableName": "ACT_HI_COMMENT_View",
                 "ColumnName": "PROC_INST_ID_",
-                "GUID": "d6ca8f71-9cdb-4531-b1fc-4447fcdc460d",
+                "GUID": "c6a88da0-3971-4bfe-b137-b37abb473a0e",
                 "RelationBinding": {
                   "RelatedTable": "ACT_HI_PROCINST_View",
                   "RelatedColumn": "ID_",

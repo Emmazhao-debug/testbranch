@@ -1,0 +1,110 @@
+{
+  "Rows": {
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "Values": {
+    "1,2": "value in Page",
+    "3,12": "ShareCommand",
+    "6,12": "命令参数"
+  },
+  "AttachInfos": {
+    "3,12": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.ShareCommand, ServerDesignerCommon",
+            "ShareCommandContainerRefer": {
+              "ShareCommandContainerID": "eb9684a6-75fd-48af-abf7-1ee5f9f9043b"
+            }
+          }
+        ],
+        "Text": "ShareCommand",
+        "TemplateKey": "_RS_Normal_Style2"
+      }
+    },
+    "6,12": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.ShareCommand, ServerDesignerCommon",
+            "ShareCommandContainerRefer": {
+              "ShareCommandContainerID": "680f3eb3-f561-4586-8a14-36ca37536963"
+            },
+            "Params": [
+              {
+                "ParamReferObject": {
+                  "ParamID": "78a4f0b0-0ae5-4017-85b7-dc0483253fbf",
+                  "ShareCommandContainerReferObject": {
+                    "ShareCommandContainerID": "680f3eb3-f561-4586-8a14-36ca37536963"
+                  }
+                },
+                "Value": "Value from Share command",
+                "Remark": "测试前端显示警告"
+              }
+            ]
+          }
+        ],
+        "Text": "命令参数",
+        "TemplateKey": "_RS_Normal_Style2"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontFamily": 0
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body"
+      ]
+    },
+    "CellStyles": {
+      "18,39": 0
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "1,2,2,7",
+    "3,12,2,7",
+    "6,12,2,7"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "MobilePageName": "手机页面显示",
+    "PermissionData": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
+      "permissionResource": {
+        "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionResource, Forguncy.RbacPermission.Core"
+      },
+      "permissionBindings": [
+        {
+          "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionBinding, Forguncy.RbacPermission.Core",
+          "roleNames": [
+            "FGC_LoginUser"
+          ]
+        }
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  },
+  "CustomNames": [
+    {
+      "Name": "SetCell",
+      "Formula": "PC页面警告!$C$2"
+    }
+  ]
+}//G11037e7pHgg+yPTO7HQ7vZjTCq6tSrqHcKzh7rDYYF38cD+H1yv+kIAmvq6UHXYdPkO4UVuktduHpnVnVmwl94jMTy65kSL0lQloVjUSI7XENlcM0G2U2hLg4WRYKsJpUwWyY81h9H/Xz9guCW0gabhKXD6yB1ceJJAhgIIaHHcSC25+aLY/avjUmMfcrBsTtIMBZ4p+nv8yBGBtuOwxA9byBFJaT7iKCYecHgrg8fTcs8p//Rk+jkJqdkeNFscfZuMxdQZyJiaZ9rEFOgy26CCCpCKDavSmsaSZBM80AjgShy12xC+f+r6ETjDAcu4CRmoEGFhZH6gM7DKwpX/CRZ2BAQ2uWSCOVQfhKhRwAQWuofUBCw2RiRsGLagCBIzKmrVYwYYm0KBtH6jgNDOBjnDjcATQYsEnXUD2HAU/fmdI/EybDOOUKlP8IJxBO1O3za0VI1mTIVV4y9+Iv/V/dM0+p7Yf0ET+Vh6BdQS8rW75CQF25SbY8sFif2atC5UT5VQmfuWFRN2I/kHOW3uHZc/HfM4lkW1ZtNyYSQfZ+g64KjdKXrAaTLfX9R3AuY1DxdFcWIwQoOKG3TIOr2prLyjeiUSgiTJTaiaLl12TykVzJNbJ4IegS7CSqw/fBbvVtG2VHl51mkDxuqRllykM0ttz3WuR+4btB8mEunHnZeY4ob+vT4/hChU1F7CK6tx6DFs1cP03OA7f9VAW6Wb9MuebJVHMFj7xjJ6Y5GyD5ereT9mWczXDCEJAYb3WRbAmGss+8pqBf9tFgGrN4KocCIw6aFT5AoAQQzEB7APAFFdCmUeIHOO4bh6yp3iIqifgRptZUasCKthBBjKJKWZxgD/ijuROxK4vx/y3dMtaATD0jm/eDzU/Lv/UzCppLtoJkUgVuvBogflmLqYVeM7hg==|920

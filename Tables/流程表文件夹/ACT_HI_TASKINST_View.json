@@ -25,7 +25,7 @@
               "ColumnBindingInfo": {
                 "TableName": "ACT_HI_TASKINST_View",
                 "ColumnName": "ASSIGNEE_",
-                "GUID": "aeb5ec59-6516-4fd5-a541-05424d3b6313"
+                "GUID": "dec4f76a-6e61-4f51-8717-d336b05dd11c"
               },
               "Value": "%CurrentUser%"
             }

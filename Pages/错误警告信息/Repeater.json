@@ -1,0 +1,259 @@
+{
+  "Rows": {
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "Values": {
+    "3,36": "show alert",
+    "6,36": "企业在页面",
+    "12,36": "打印机名称",
+    "21,3": "Listview with a lot of records"
+  },
+  "AttachInfos": {
+    "3,3": {
+      "CellType": {
+        "$type": "Forguncy.RepeaterCellType, ServerDesignerCommon",
+        "TemplatePageName": "b4fd58eec0f84c598585b2391c21913",
+        "DataSourceType": 1,
+        "DataSource": {
+          "$type": "ServerDesignerCommon.Model.BindingDataSourceModel, ServerDesignerCommon",
+          "TableName": "汽车企业信息",
+          "BindingInfos": [
+            {
+              "BindingInfo": {
+                "TableName": "汽车企业信息",
+                "ColumnName": "ID",
+                "GUID": "0279a596-c583-4edf-8185-7b8507c38207"
+              },
+              "ColumnName": "ID"
+            },
+            {
+              "BindingInfo": {
+                "TableName": "汽车企业信息",
+                "ColumnName": "企业",
+                "GUID": "f47f3b75-91a9-4138-a70f-c030b143e0a9"
+              },
+              "ColumnName": "企业"
+            },
+            {
+              "BindingInfo": {
+                "TableName": "汽车企业信息",
+                "ColumnName": "联系人",
+                "GUID": "fc0588d7-3a91-40a0-982d-9ea74825e37b"
+              },
+              "ColumnName": "联系人"
+            },
+            {
+              "BindingInfo": {
+                "TableName": "汽车企业信息",
+                "ColumnName": "电话",
+                "GUID": "15355f4f-0844-4968-a6ae-988c71d7621d"
+              },
+              "ColumnName": "电话"
+            },
+            {
+              "BindingInfo": {
+                "TableName": "汽车企业信息",
+                "ColumnName": "地址",
+                "GUID": "28c2da97-dcb1-4b03-ac00-19cbe204eceb"
+              },
+              "ColumnName": "地址"
+            },
+            {
+              "BindingInfo": {
+                "TableName": "汽车企业信息",
+                "ColumnName": "备注",
+                "GUID": "9bddded4-5ec7-428d-922b-044669d4b8e7"
+              },
+              "ColumnName": "备注"
+            }
+          ],
+          "IsListviewDataSource": true
+        },
+        "DataSourceListviewName": "RepeaterListview1",
+        "TopCount": 10,
+        "TemplateKey": "_RS_Selectable"
+      }
+    },
+    "3,36": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.ShowMessageCommand, ServerDesignerCommon",
+            "MessageFormula": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=Repeater!企业"
+            }
+          }
+        ],
+        "Text": "show alert",
+        "TemplateKey": "_RS_Normal_Style2"
+      }
+    },
+    "9,36": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.ExportPageToPdfCommand, ServerDesignerCommon",
+            "ActionType": 1,
+            "NewOtherName": "",
+            "PrinterName": {
+              "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+              "SerializeProperty": "=Repeater!AK14"
+            }
+          }
+        ],
+        "TemplateKey": "_RS_Main1"
+      }
+    },
+    "13,36": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_NewLittleRoundCorner"
+      }
+    },
+    "22,3": {
+      "ListViewInfo": {
+        "Name": "リストビュー1",
+        "TableName": "_5000行数据",
+        "RowIndex": 22,
+        "ColumnIndex": 3,
+        "RowCount": 20,
+        "ColumnCount": 45,
+        "TopCondition": {
+          "$type": "ForguncyDataAccess.TopCESqlCondition, ForguncyDataAccess",
+          "TopCount": 10
+        },
+        "ListViewStyleName": "_RS_Medium2",
+        "ShowColumnHeaderInDesigner": true,
+        "ShowEditStatusIcon": true,
+        "UseSimpleBar": true,
+        "ColumnOperation": 2
+      }
+    },
+    "23,3": {
+      "BindingInfo": {
+        "TableName": "_5000行数据",
+        "ColumnName": "ID",
+        "GUID": "1a2c91b6-5405-48dc-bbc1-e7d561466368"
+      }
+    },
+    "23,8": {
+      "BindingInfo": {
+        "TableName": "_5000行数据",
+        "ColumnName": "ImpアイテムA",
+        "GUID": "bc983e69-6294-4881-a40a-eb982f5f29da"
+      }
+    },
+    "23,15": {
+      "BindingInfo": {
+        "TableName": "_5000行数据",
+        "ColumnName": "ImpアイテムB",
+        "GUID": "3e9927c7-51cd-46a4-92ae-82b8c8307e72"
+      }
+    },
+    "23,22": {
+      "BindingInfo": {
+        "TableName": "_5000行数据",
+        "ColumnName": "ImpアイテムC",
+        "GUID": "09e18d4e-1e3f-4e31-9358-c7b562c7053c"
+      }
+    },
+    "23,29": {
+      "BindingInfo": {
+        "TableName": "_5000行数据",
+        "ColumnName": "ImpアイテムD",
+        "GUID": "6b28f601-caf5-46a8-a400-43045bf04af0"
+      }
+    },
+    "23,36": {
+      "BindingInfo": {
+        "TableName": "_5000行数据",
+        "ColumnName": "ImpアイテムE",
+        "GUID": "a73c39b5-e108-4115-a3c0-713244fc9916"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "HorizontalAlignment": 0
+      },
+      {
+        "Formatter": 1
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Center",
+        "@",
+        "Body"
+      ]
+    },
+    "CellStyles": {
+      "3,3": 0,
+      "13,36": 1
+    },
+    "SheetStyle": {
+      "FontFamily": 2
+    }
+  },
+  "Spans": [
+    "3,3,18,30",
+    "3,36,2,6",
+    "6,36,2,8",
+    "24,3,18,45",
+    "23,3,1,5",
+    "23,8,1,7",
+    "23,15,1,7",
+    "23,22,1,7",
+    "23,29,1,7",
+    "23,36,1,8",
+    "9,36,2,7",
+    "13,36,2,13",
+    "22,3,1,5",
+    "22,8,1,7",
+    "22,15,1,7",
+    "22,22,1,7",
+    "22,29,1,7",
+    "22,36,1,8"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "PermissionData": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
+      "permissionResource": {
+        "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionResource, Forguncy.RbacPermission.Core"
+      },
+      "permissionBindings": [
+        {
+          "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionBinding, Forguncy.RbacPermission.Core",
+          "roleNames": [
+            "FGC_LoginUser"
+          ]
+        }
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  },
+  "CustomNames": [
+    {
+      "Name": "企业",
+      "Formula": "Repeater!$AK$7"
+    }
+  ]
+}//qgQQHR8ts/7e9VfOoTZsHxXec4LbEepkV/1VnHM4DPkXdza0Pr4laRB84ZLcCIS/TP5zpbEouHkwp4JOjaoq/kiGS57BuUeKzOAw4xGmd33+pGAfNda2VuGQY+2Voc7OGN8Ov7px7eSPs+1k7vxruzkGKviByHRyUM3vG3hsR13AlwACvtbkXnDQwRjPvq5fljdPB6lGhsEQfRj/93vKdxMQAyBgpIrTuiu9cnlsy00naxBItAxFWXhrs/AeKj3gDVMcVDiXSjfMf8keUPvqGZ5Ebcop5AymuKmBF6+jzKApOhVTJclmVEljCVe5qhKT0tn38SGhMednr1n/e5BOrMGMxBzbeOF+ggsubFgT+xdclL6s8brks1GAwfpvGh+k/C7BBWgvaiB/PV1a+EhBIvr7l7PyCvwb9nlrJv/1s3d0E2At3IkPP9qhAkrP4b59C+bEIq8TfH2Az5zyD/K8wIw0RhYR7VBoRqqYP85IZ6G1cYsYitHQmWJE+FI6jUV39GolzIIQLogvixtxDlwjujjqpQfFP5RTPcFFj85fSzFyiyTX1Ot0Lle1Nrnbc1K9t65QXsQMX7E1ze+30/rmxDvIMFe6ptEqXIdAH52QoqLKGO3QgiYBYDgA2MZP/hTSjeb/UyVZHrcOmBm3u2zB3wcZyYD9VBVilNZ5j5+HJvuyyD7jGN0FkqiBhY4WwcLL/m3/M2TnAWIIlDkMk9S+JO7rKxZTi+wDj9gXJ5l/ntryMug9iZh/bdGX1oX6EWqzgW+Pq7Mvx/6iCYa0590h6xRqxivUYg927kyyEhJHATvCEgWDuozQk6KtADaspqooczW4hnR28hoScJKyLcCcAGMhuHKjs4IBkYWS1mbv+orhxwtIcHHRYoAKNiwbrPjp0LKQRwOf0vTIHbZ+i+RyXg==|920

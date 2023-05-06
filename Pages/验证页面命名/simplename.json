@@ -1,0 +1,184 @@
+{
+  "Rows": {
+    "RowColumnAttachedInfos": {
+      "7": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      }
+    },
+    "Count": 39
+  },
+  "Cols": {
+    "RowColumnAttachedInfos": {
+      "54": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 20.0,
+          "Mode": 2,
+          "MinLength": {
+            "Unit": 1
+          },
+          "MaxLength": {
+            "Value": 1.0
+          }
+        }
+      }
+    },
+    "Count": 60
+  },
+  "Values": {
+    "1,2": "打开报表",
+    "1,13": "流程1",
+    "4,2": "编辑报表",
+    "4,13": "编辑报表"
+  },
+  "AttachInfos": {
+    "1,2": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.OpenActiveReportCommand, ServerDesignerCommon",
+            "SessionGuid": "c71650b6-627f-4113-8e4d-6ab3a597ca92",
+            "OpenReportName": "信息统计",
+            "SideBarPosition": 0
+          }
+        ],
+        "Text": "打开报表",
+        "TemplateKey": "_RS_Main1"
+      }
+    },
+    "1,13": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.ProcessOpenOnlineCommand, ServerDesignerCommon",
+            "ProcessName": "验证流程在线编辑"
+          }
+        ],
+        "Text": "流程1",
+        "TemplateKey": "_RS_Main1"
+      }
+    },
+    "1,40": {
+      "CellType": {
+        "$type": "Forguncy.CurrentUserCellType, ServerDesignerCommon",
+        "CellCustomValue": "%CurrentUser%",
+        "ShowCircleUserPicture": true,
+        "NavigateSettingWhenLogout": {
+          "NavigateWhenLogoutMode": 1
+        }
+      }
+    },
+    "4,2": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.OpenActiveReportWebDesignerCommand, ServerDesignerCommon",
+            "OpenReportName": "信息统计"
+          }
+        ],
+        "Text": "编辑报表",
+        "TemplateKey": "_RS_Main1"
+      }
+    },
+    "4,13": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.OpenActiveReportWebDesignerCommand, ServerDesignerCommon",
+            "OpenReportName": "RDL报表设计"
+          }
+        ],
+        "Text": "编辑报表",
+        "TemplateKey": "_RS_Main1"
+      }
+    },
+    "7,2": {
+      "CellType": {
+        "$type": "TabManager.TabCellType, TabManager",
+        "TemplateKey": "_RS_NewFashionStyle1"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontFamily": 0,
+        "Formatter": 1
+      },
+      {
+        "FontFamily": 0
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body",
+        "[AUTO]General"
+      ]
+    },
+    "CellStyles": {
+      "4,13": 0,
+      "4,14": 1,
+      "4,15": 1,
+      "4,16": 1,
+      "4,17": 1,
+      "4,18": 1,
+      "4,19": 1,
+      "4,20": 1,
+      "5,13": 1,
+      "5,14": 1,
+      "5,15": 1,
+      "5,16": 1,
+      "5,17": 1,
+      "5,18": 1,
+      "5,19": 1,
+      "5,20": 1
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "1,2,2,8",
+    "4,2,2,8",
+    "1,13,2,6",
+    "1,40,2,13",
+    "7,2,30,53",
+    "4,13,2,8"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "PermissionData": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
+      "permissionResource": {
+        "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionResource, Forguncy.RbacPermission.Core"
+      },
+      "permissionBindings": [
+        {
+          "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionBinding, Forguncy.RbacPermission.Core",
+          "roleNames": [
+            "FGC_LoginUser",
+            "FGC_Anonymous"
+          ]
+        }
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  }
+}//NxSk18e8WKr+fcw8F+GL5WF3cRHnGbtZEPD34mgOfCsdeYxyL0dYb3MZ2ZU5cBqSoay6LDjuMGbiDwo3CitITGbPUYGFOYeuVHb1QAZck7gKzjjloiPKRrvZKE6SiFV/VmtDefLrCKy6PkLwQ8dNIrj6wN3o5DtAp9e+BkYzHC89zyc9+4VrKZgbzo8Coh4lF/tVhnyQIz7hdEL139ps9rk8mqw2+KG5Q6iWSD875Cs391Dd+YisLhAB3fRjefr7lMAbloNQLMyYK9J5Mp0KMU6Zd8nzZmydFYB8tS9XWPq14wCFZg3+9KuDyHRksFL7FddqJrmtPUkv3Jm+LYaRQX30ytXdYBjTJvcQKGZopgkKVgCzvcJWesjWYGdrKMmLNwB64TRmbQjl6M9h+pEl2x7+5Urda0uJKrYjTNhgD0wEecmdysq/Xas6sFv1QUTnFOWxqnEq8xBD1KxettY7WfO0mnykL8vLzOsDkKBjM0lSogFxsS9Mv2WD4kPciIRUdD8Ss9oe2eJE5YIZDKCk6+RO/dwP1InhMhTl9xxyNmqivh+oHBUoHbXCGiwz/0HzxrkAvjPi7Op08LRymSKrqdC01mSK+GickUXp8IzAnp8QtNEwgsSbwzU7gjAZ1WbfUiIgv4+eGGeIwiGVNXzKCT9FpJY5Z2rFMZxTx3JdvsIhNrDDlaysa16SxcADxbvyHhHeYjzxwR0UwhAcofOHV79q4AgyBOuKlX1fNfXhjNW+yp4O0jhjrBAEySOSasFiQncsCMkksuXyMuIoTw41cMyegU9GPEqSvhQijp4NMHIIhOwC9teUoJ8tAyxdChB1Wv8ZzFM/2HQJRtoHevwqybkDfzh7qZBp9Uf+xBhJO+XpxCMuYMmzKsgqklgY5cieLMDcl6YZs8Hap0pwD6UvGQ==|920

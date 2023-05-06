@@ -1,0 +1,185 @@
+{
+  "Name": "RDL报表设计",
+  "DataSources": [
+    {
+      "Name": "汽车销售信息",
+      "GUID": "9f6b1a41-e5b3-41fc-8b51-c60993155c01",
+      "DataSourceSetting": {
+        "TableName": "汽车销售信息",
+        "BindingInfos": [
+          {
+            "GUID": "6ba4a7f9-a9ff-46ed-adf0-9a57ad7dc09c",
+            "BindingInfo": {
+              "TableName": "汽车销售信息",
+              "ColumnName": "ID",
+              "GUID": "b2113054-ce24-4510-bc57-bd4be038afcb"
+            },
+            "ColumnName": "ID"
+          },
+          {
+            "GUID": "b09945f6-ef72-402d-a268-e346260a7886",
+            "BindingInfo": {
+              "TableName": "汽车销售信息",
+              "ColumnName": "车型",
+              "GUID": "81296132-1850-4318-a07b-b9b376eb62c3"
+            },
+            "ColumnName": "车型"
+          },
+          {
+            "GUID": "0b74ef4b-1aa5-42b9-b853-8bb632e1f221",
+            "BindingInfo": {
+              "TableName": "汽车销售信息",
+              "ColumnName": "品牌",
+              "GUID": "345a7d2e-9b1c-4e4a-adff-63a1b3768d87"
+            },
+            "ColumnName": "品牌"
+          },
+          {
+            "GUID": "0aec2d16-484d-45e2-abca-044b0d165019",
+            "BindingInfo": {
+              "TableName": "汽车销售信息",
+              "ColumnName": "企业",
+              "GUID": "7c0fb8aa-4167-46ee-ad71-a8803520df02"
+            },
+            "ColumnName": "企业"
+          },
+          {
+            "GUID": "af7b1dd8-dd3e-40aa-bedc-d4820e8573c2",
+            "BindingInfo": {
+              "TableName": "汽车销售信息",
+              "ColumnName": "系别",
+              "GUID": "2edc2a38-748f-4edb-9f13-01ec812b3ad4"
+            },
+            "ColumnName": "系别"
+          },
+          {
+            "GUID": "f9617a50-728c-4b17-b317-6858e7db5037",
+            "BindingInfo": {
+              "TableName": "汽车销售信息",
+              "ColumnName": "类别",
+              "GUID": "d88c8578-2a23-41e3-8b0f-4a6e31615fc2"
+            },
+            "ColumnName": "类别"
+          },
+          {
+            "GUID": "8c5db030-3c8b-49c8-857a-963994754535",
+            "BindingInfo": {
+              "TableName": "汽车销售信息",
+              "ColumnName": "_2015销量",
+              "GUID": "e419640a-eb7c-470e-9d78-da354e437fe1"
+            },
+            "ColumnName": "_2015销量"
+          },
+          {
+            "GUID": "377a8125-528d-42b5-b306-7d6d52df614a",
+            "BindingInfo": {
+              "TableName": "汽车销售信息",
+              "ColumnName": "_2014销量",
+              "GUID": "0dcb0194-ed86-4e71-abd3-69b5fa5849cf"
+            },
+            "ColumnName": "_2014销量"
+          },
+          {
+            "GUID": "9fbd78c6-e200-4d1e-94a8-f70f4881701c",
+            "BindingInfo": {
+              "TableName": "汽车销售信息",
+              "ColumnName": "_201512销量",
+              "GUID": "f5e0cd18-7539-443d-bcc0-9cba2301082e"
+            },
+            "ColumnName": "_201512销量"
+          },
+          {
+            "GUID": "e7389a63-0a3f-43d6-8406-439d82efe2f9",
+            "BindingInfo": {
+              "TableName": "汽车销售信息",
+              "ColumnName": "_201412销量",
+              "GUID": "bc6ff44d-76e3-45f3-92d4-618347c75ac5"
+            },
+            "ColumnName": "_201412销量"
+          },
+          {
+            "GUID": "20c5b1a5-2a73-4eb7-aed5-05697944373b",
+            "BindingInfo": {
+              "TableName": "汽车销售信息",
+              "ColumnName": "FGC_Creator",
+              "GUID": "48ebac66-2784-4da1-ab9c-c5d84e17b1c2"
+            },
+            "ColumnName": "创建者"
+          },
+          {
+            "GUID": "976b163e-c44b-4ac3-8c6e-28a0c540eaa2",
+            "BindingInfo": {
+              "TableName": "汽车销售信息",
+              "ColumnName": "FGC_CreateDate",
+              "GUID": "e7d0854c-6b45-462b-8b17-6c9cf693135c"
+            },
+            "ColumnName": "创建日期"
+          },
+          {
+            "GUID": "ca9406f1-2f7b-49bb-b4bf-2332a4e1e2e7",
+            "BindingInfo": {
+              "TableName": "汽车销售信息",
+              "ColumnName": "FGC_LastModifier",
+              "GUID": "93b1c7f5-11a9-4399-94b9-e5a68e172255"
+            },
+            "ColumnName": "最后更新者"
+          },
+          {
+            "GUID": "50e8689d-342d-413d-8cd7-b069bd23c928",
+            "BindingInfo": {
+              "TableName": "汽车销售信息",
+              "ColumnName": "FGC_LastModifyDate",
+              "GUID": "15a722f8-6b3b-4778-9056-139953a32e1b"
+            },
+            "ColumnName": "最后更新日期"
+          }
+        ]
+      },
+      "ColumnsType": [
+        "integer",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "number",
+        "number",
+        "number",
+        "number",
+        "string",
+        "date-time",
+        "string",
+        "date-time"
+      ]
+    }
+  ],
+  "AllowAccessRoleList": [],
+  "PermissionData": {
+    "$type": "Forguncy.RbacPermission.Core.Impl.ActiveReport.ActiveReportPermissionData, Forguncy.RbacPermission.Core",
+    "permissionResource": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.ActiveReport.ActiveReportPermissionResource, Forguncy.RbacPermission.Core",
+      "activeReportType": 1,
+      "type": 6
+    },
+    "permissionBindings": [
+      {
+        "$type": "Forguncy.RbacPermission.Core.Impl.ActiveReport.ActiveReportPermissionBinding, Forguncy.RbacPermission.Core",
+        "activeReportPermissionType": 1,
+        "resourceName": "RDL报表设计",
+        "roleNames": [
+          "FGC_LoginUser"
+        ]
+      },
+      {
+        "$type": "Forguncy.RbacPermission.Core.Impl.ActiveReport.ActiveReportPermissionBinding, Forguncy.RbacPermission.Core",
+        "activeReportPermissionType": 2,
+        "resourceName": "RDL报表设计",
+        "roleNames": [
+          "FGC_LoginUser"
+        ]
+      }
+    ]
+  },
+  "ReportType": 1,
+  "Weight": 1
+}

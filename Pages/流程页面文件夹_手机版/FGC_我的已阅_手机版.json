@@ -578,7 +578,7 @@
               "BindingInfo": {
                 "TableName": "ACT_HI_TASKINST_View",
                 "ColumnName": "ID_",
-                "GUID": "f186b4be-f931-43b5-868f-13d8c76e855a"
+                "GUID": "0495c1fb-bc0a-4562-a213-148b800ecc5e"
               },
               "ColumnName": "ID"
             },
@@ -586,7 +586,7 @@
               "BindingInfo": {
                 "TableName": "ACT_HI_TASKINST_View",
                 "ColumnName": "PROC_DEF_ID_",
-                "GUID": "88f4953d-28cb-4be3-b25d-671af72d1d2a",
+                "GUID": "4aa0432c-d925-49e7-9cbc-dc2f03e644cb",
                 "RelationBinding": {
                   "RelatedTable": "ACT_RE_PROCDEF_View",
                   "RelatedColumn": "ID_",
@@ -599,7 +599,7 @@
               "BindingInfo": {
                 "TableName": "ACT_HI_TASKINST_View",
                 "ColumnName": "NAME_",
-                "GUID": "fc4da692-76fa-4370-a7d2-3879d81dfb44"
+                "GUID": "9489fd2b-96e9-4255-a8ee-8b33793308d7"
               },
               "ColumnName": "任务名称"
             },
@@ -607,7 +607,7 @@
               "BindingInfo": {
                 "TableName": "ACT_HI_TASKINST_View",
                 "ColumnName": "START_TIME_",
-                "GUID": "1cf070d8-d175-4932-9b53-fadac9b10cac"
+                "GUID": "877e9899-af08-47a2-b8d2-40c4f8e80cad"
               },
               "ColumnName": "开始时间"
             },
@@ -615,7 +615,7 @@
               "BindingInfo": {
                 "TableName": "ACT_HI_TASKINST_View",
                 "ColumnName": "END_TIME_",
-                "GUID": "40b328f0-ee4a-4199-a7bb-2541932b8cb2"
+                "GUID": "4b85292c-954c-43ab-9152-1de83447eb4d"
               },
               "ColumnName": "结束时间"
             },
@@ -623,7 +623,7 @@
               "BindingInfo": {
                 "TableName": "ACT_HI_TASKINST_View",
                 "ColumnName": "DELETE_REASON_",
-                "GUID": "a5731018-897c-4442-bc46-fb7b7b9f642d"
+                "GUID": "74e5c6ff-dd87-41f6-936b-5740926c511b"
               },
               "ColumnName": "结束原因"
             },
@@ -631,7 +631,7 @@
               "BindingInfo": {
                 "TableName": "ACT_HI_TASKINST_View",
                 "ColumnName": "PROC_INST_ID_",
-                "GUID": "39ed6483-332a-4d99-b70e-9cf02eba6665",
+                "GUID": "c393410b-9200-4ec3-ac15-686b830f1c13",
                 "RelationBinding": {
                   "RelatedTable": "ACT_HI_PROCINST_View",
                   "RelatedColumn": "ID_",
@@ -649,7 +649,7 @@
                 "ColumnBindingInfo": {
                   "TableName": "ACT_HI_TASKINST_View",
                   "ColumnName": "ASSIGNEE_",
-                  "GUID": "196154f8-3b5d-4e06-8aed-6d88e799978c"
+                  "GUID": "6598e7ea-690d-4784-aead-9b0541814fbb"
                 },
                 "Value": "%CurrentUser.UserName%"
               },
@@ -659,7 +659,7 @@
                 "ColumnBindingInfo": {
                   "TableName": "ACT_HI_TASKINST_View",
                   "ColumnName": "END_TIME_",
-                  "GUID": "0731e994-6877-4031-949d-6587405b277b"
+                  "GUID": "7ec30fd0-d95b-49cb-a2ce-b5f830a040a0"
                 },
                 "Value": "%Null%"
               },
@@ -668,7 +668,7 @@
                 "ColumnBindingInfo": {
                   "TableName": "ACT_HI_TASKINST_View",
                   "ColumnName": "TASK_TYPE_",
-                  "GUID": "8b9498fc-e10d-445d-b871-44214ac14b89"
+                  "GUID": "acd7caf8-5446-433b-8018-3da687e35126"
                 },
                 "Value": "抄送"
               }
@@ -680,7 +680,7 @@
                 "ColumnBindingInfo": {
                   "TableName": "ACT_HI_TASKINST_View",
                   "ColumnName": "END_TIME_",
-                  "GUID": "d7e2e505-eb01-4af0-b09b-1b633a301f95"
+                  "GUID": "232b5c9e-8297-4438-b2a2-9847c7eff38d"
                 },
                 "Order": 1
               }
@@ -799,4 +799,4 @@
     "PaperSize": {},
     "Margin": {}
   }
-}//M+SYk6KfPjvyqMa9PxFerTkG6VD9lBgjlg6WWF2Z+MV0hH642fF6vz0zAxoDtm8FuRWi9UqLd10Hg9vWmpANwvuk57yZwzZjRKMnh/1kDN9Q3cV6+w93zsdTUA//LP+dpnrX28inhhQLQdAtc7qDVLXiuyNL8kr6mLoE8wvr1mFEZRE6ecklRLdAaeoIqJG+QJ8NLsamz3IWbEguFpw/gGHVAUj2h5aS/64qZ4m+MIOKjULAw333tjyir4BIGA7wqZonbFSly9KNESUH8OjZwsNCq7r7zMQJyZw8IypDI6FR70BKMQ39p1UHHnxCibf9i0f7oAVxDKwTpItVAl307MLOdoSi+bstoqwomH6svGb5SurpUHoB9WzmFD/2W4rWTUteB3gqy1xCr6ZzlAaeRUYe2b/iZAU6jzbPZckAa9P0+as151LDQs3vkIL9hlDKLyWQiVsNSil7wI9X5dgqPzHeMTCYDeZZctLOMBmh8/INGkA09rA5Agy0dlORtwwOtiQohWlkM4OmC5b3kPdXPC+E95poVUcihDrO8T4/zlqj0dqnQEkyPfe+jznk4A7ytQOPbEcGQlai2ZOLaxWD9w6pTjrvX9qDup74C+o14be+WY6dR8/E85pCReF1busnlMwzvd1GWRevXtN1ZcH3iRdnNbLLUNY8kzsrP0oIMngjBVZk3FiOefsS8dwMjyCHlz5CtzsWwuzoFkcoy88if8BgA32s6LxdTXanlDZ4LAQRECVSxwwHJrvYhXnlWunTbs2BNZL+ko2AulSsWmt0alKiQgSTGBw/ma//pQC4Ain4YtiC5pXKOAnLIm6HD8dfaliuZL8Ps8TXOHiP5lkEzuJTNw1ece+rKoiGQfTuXps7Npt2kaLUUN9HR3mS5Pa1yddgrMSabDqfJtjPOGB6tg==|920
+}//Ehdb9LOQ165Su1oOs1JKjk9ALx8qmiwd35LOhvHXWPnetylSVSXrT450SEVSNAXx71S/d8HxjxxLji9rWoNhuwogmOanJ6BWSE7Aqhr6hk1AkcLN1RdED6rx4cpDRZJdPbUC0kxwBq5mEg28xDnCwkRiDJhRPvrRRqjlXzOAGpVss71VO95dngbvRQZnnncZc4rF4akOVhn6rR0+ydym5Gs8ePMdC+2h2qAgYtLOI3GZAuJ+ypFWu/7VH2uPaUFf6237jTpRKYl9ngr3P6Dw8RJ2ovIwI8vyQ6EMK5hwCM6Ir1md+vIeQjfAfutoW+gtIKhc/39BSzv4b7QHFp6/COSgc+Q2VJldzA0xxg1AKfJTP+XvoCo3YMmuiU/8vqu1g6V2hzIylYALYVRG34H4ZPParI2DDXUjG89EGtqFn0A51hGLFAWdOTyEXvmuqEi4BPFgpfQsTWDWFjxcwxrkVHdQOG+gdXrrZONqAP/hp8Nkj/to8eA8fn6zlgZ6l/Kw8YR+Oj01yD/3JNKbfAAmTi7rZJDaEgLn8bTBpuaOCyk4cV54bSqQbg2T5r5mf8NrsxvrlBhIVLGo4CFCZafvJdAEMvj+JICzsVpl+H1YUojNyOIP95b4iif8bWYs10eo/6h8qnMKxphiSiBghTt4xBcpxOQjpGc3ZTiG/+fXZXb7Q1HgRWyiCBnzS2Oi+sg9PA9nIlhGmmMFCOzlyAA3RVfTf6wrFU5NqIvE0z4cd8hGob5hVxEXhfWr8IyhCbGM+pDqDSLN+R+LbmwOR/FOQUBd/TSsApn8gICcMaqtV6DqyJvc/UTdf4o2ousnFK6f5WUYvQwWaSO5sdEwZT6BMD/jPbRu0fRhmtQcWjlTTPfwhRmXoQw8/kHa4SA9yK1OIwWJmVJ6hAE4LcA1YlkeRQ==|920

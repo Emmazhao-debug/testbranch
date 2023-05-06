@@ -1,0 +1,294 @@
+{
+  "Rows": {
+    "Count": 28
+  },
+  "Cols": {
+    "Count": 18
+  },
+  "Values": {
+    "1,1": "value in Page",
+    "3,11": "ShareCommand",
+    "6,11": "命令参数"
+  },
+  "AttachInfos": {
+    "3,11": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.ShareCommand, ServerDesignerCommon",
+            "ShareCommandContainerRefer": {
+              "ShareCommandContainerID": "eb9684a6-75fd-48af-abf7-1ee5f9f9043b"
+            }
+          }
+        ],
+        "Text": "ShareCommand",
+        "TemplateKey": "_RS_Normal_Style2"
+      }
+    },
+    "6,11": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.ShareCommand, ServerDesignerCommon",
+            "ShareCommandContainerRefer": {
+              "ShareCommandContainerID": "680f3eb3-f561-4586-8a14-36ca37536963"
+            },
+            "Params": [
+              {
+                "ParamReferObject": {
+                  "ParamID": "78a4f0b0-0ae5-4017-85b7-dc0483253fbf",
+                  "ShareCommandContainerReferObject": {
+                    "ShareCommandContainerID": "680f3eb3-f561-4586-8a14-36ca37536963"
+                  }
+                },
+                "Value": "Value from Share command",
+                "Remark": "测试前端显示警告"
+              }
+            ]
+          }
+        ],
+        "Text": "命令参数",
+        "TemplateKey": "_RS_Normal_Style2"
+      }
+    },
+    "9,1": {
+      "ListViewInfo": {
+        "Name": "リストビュー1",
+        "TableName": "_5000行数据",
+        "RowIndex": 9,
+        "ColumnIndex": 1,
+        "RowCount": 17,
+        "ColumnCount": 14,
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_Medium2",
+        "ShowColumnHeaderInDesigner": true,
+        "ShowEditStatusIcon": true,
+        "UseSimpleBar": true,
+        "ColumnOperation": 2
+      }
+    },
+    "10,1": {
+      "BindingInfo": {
+        "TableName": "_5000行数据",
+        "ColumnName": "ID",
+        "GUID": "df0b833c-a97f-4665-b557-629ab7775b8a"
+      }
+    },
+    "10,5": {
+      "BindingInfo": {
+        "TableName": "_5000行数据",
+        "ColumnName": "ImpアイテムA",
+        "GUID": "0a010f44-7dca-440e-b94a-b7b3249496e4"
+      }
+    },
+    "10,11": {
+      "BindingInfo": {
+        "TableName": "_5000行数据",
+        "ColumnName": "ImpアイテムB",
+        "GUID": "ac3040d6-7a3b-43a3-8256-74309ea6051a"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontFamily": 0,
+        "Formatter": 1
+      },
+      {
+        "FontFamily": 0
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body",
+        "[AUTO]General"
+      ]
+    },
+    "CellStyles": {
+      "1,1": 0,
+      "1,2": 1,
+      "1,3": 1,
+      "1,4": 1,
+      "1,5": 1,
+      "1,6": 1,
+      "1,7": 1,
+      "1,8": 1,
+      "1,9": 1,
+      "1,10": 1,
+      "1,11": 1,
+      "1,12": 1,
+      "1,13": 1,
+      "1,14": 1,
+      "1,15": 1,
+      "1,16": 1,
+      "1,17": 1,
+      "2,1": 1,
+      "2,2": 1,
+      "2,3": 1,
+      "2,4": 1,
+      "2,5": 1,
+      "2,6": 1,
+      "2,7": 1,
+      "2,8": 1,
+      "2,9": 1,
+      "2,10": 1,
+      "2,11": 1,
+      "2,12": 1,
+      "2,13": 1,
+      "2,14": 1,
+      "2,15": 1,
+      "2,16": 1,
+      "2,17": 1,
+      "3,1": 1,
+      "3,2": 1,
+      "3,3": 1,
+      "3,4": 1,
+      "3,5": 1,
+      "3,6": 1,
+      "3,7": 1,
+      "3,8": 1,
+      "3,9": 1,
+      "3,10": 1,
+      "3,11": 1,
+      "3,12": 1,
+      "3,13": 1,
+      "3,14": 1,
+      "3,15": 1,
+      "3,16": 1,
+      "3,17": 1,
+      "4,1": 1,
+      "4,2": 1,
+      "4,3": 1,
+      "4,4": 1,
+      "4,5": 1,
+      "4,6": 1,
+      "4,7": 1,
+      "4,8": 1,
+      "4,9": 1,
+      "4,10": 1,
+      "4,11": 1,
+      "4,12": 1,
+      "4,13": 1,
+      "4,14": 1,
+      "4,15": 1,
+      "4,16": 1,
+      "4,17": 1,
+      "5,1": 1,
+      "5,2": 1,
+      "5,3": 1,
+      "5,4": 1,
+      "5,5": 1,
+      "5,6": 1,
+      "5,7": 1,
+      "5,8": 1,
+      "5,9": 1,
+      "5,10": 1,
+      "5,11": 1,
+      "5,12": 1,
+      "5,13": 1,
+      "5,14": 1,
+      "5,15": 1,
+      "5,16": 1,
+      "5,17": 1,
+      "6,1": 1,
+      "6,2": 1,
+      "6,3": 1,
+      "6,4": 1,
+      "6,5": 1,
+      "6,6": 1,
+      "6,7": 1,
+      "6,8": 1,
+      "6,9": 1,
+      "6,10": 1,
+      "6,11": 1,
+      "6,12": 1,
+      "6,13": 1,
+      "6,14": 1,
+      "6,15": 1,
+      "6,16": 1,
+      "6,17": 1,
+      "7,1": 1,
+      "7,2": 1,
+      "7,3": 1,
+      "7,4": 1,
+      "7,5": 1,
+      "7,6": 1,
+      "7,7": 1,
+      "7,8": 1,
+      "7,9": 1,
+      "7,10": 1,
+      "7,11": 1,
+      "7,12": 1,
+      "7,13": 1,
+      "7,14": 1,
+      "7,15": 1,
+      "7,16": 1,
+      "7,17": 1,
+      "8,1": 1,
+      "8,2": 1,
+      "8,3": 1,
+      "8,4": 1,
+      "8,5": 1,
+      "8,6": 1,
+      "8,7": 1,
+      "8,8": 1,
+      "8,9": 1,
+      "8,10": 1,
+      "8,11": 1,
+      "8,12": 1,
+      "8,13": 1,
+      "8,14": 1,
+      "8,15": 1,
+      "8,16": 1,
+      "8,17": 1
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "1,1,2,7",
+    "3,11,2,7",
+    "6,11,2,7",
+    "11,1,15,14",
+    "10,1,1,4",
+    "10,5,1,6",
+    "10,11,1,4",
+    "9,1,1,4",
+    "9,5,1,6",
+    "9,11,1,4"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "PermissionData": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
+      "permissionResource": {
+        "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionResource, Forguncy.RbacPermission.Core"
+      },
+      "permissionBindings": [
+        {
+          "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionBinding, Forguncy.RbacPermission.Core",
+          "roleNames": [
+            "FGC_LoginUser"
+          ]
+        }
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
+    "IsMobilePage": true
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  },
+  "CustomNames": [
+    {
+      "Name": "SetCell",
+      "Formula": "手机页面显示!$B$2"
+    }
+  ]
+}//yHqu1gNj073WR/r8sRm8xmjhbUy6ZPf/vhuYql788eDtY8LG3Ci6xeqd4sAZh0SyiQLC4dmgMer4/0rbWyG2fn1jHtUH8TwyOrUKF2SYRvI6Myz22+auTq3WV7ECMP0t6WAuqPBjH9H0ywEdty3qEpxzB3gJO7SY6LdTWGOEWp1MKM/Dj19CtGGsePTsA4LYCRluU7+gXAnesPcHyFzevO6XNmk4RviahePX2hsmgrnH0Ux5WxfklBLe+jDx8nD+Z19TbipQ3wmsf5CX6Ztvi4rK+WXkwZTWGllebLmPtMgIbjRMzlcSwsZjZn9vnwY5+ooy2IJ1OTSwiXIRuHxcnz2LTkFVwtwOIFE8rb55RhaM2Qawi8yTwRZZVSQ225CIq2JXUfl+EoLJiWOUWe4FPkBwX34ehifGggo4dJa8b2q7RhIrxI/URMNokWY4Z4ESMLRdPKwo6DPjqe1xX93ML93JsaA28t3FkgYVB26b3Jk6sQZ1n6mxC77QZ9FST4w0kTeYDxQ9pPLU80gqeMVxoTTh8ET4m4H2YT5v4wleG/k5Af+H4qv57hbO/BkxUE+XICPTaeybq/P9e2VcseLK+Sox5fNsuN7uFeOfxR43ELja4QcBsGbvdADzQ6vo7AJ9NqpyJ74b7wr+7mFLDPcqz7BEO235ewP4xfAFNf8GoBzQpotRU6dMod5jmNDAAoq5cyM6gt/b7cU5TrOZyH5XYHJ41+t1BT0kewEf/G4Rq82KqYM2MT5Lhdmzfe4meXODIRncNzTcOFDcI2qjVZTQOk4kb1ib3hNbOQwLw1dA1MmMt15psAnshep4eN1qvA6z6mMJDdT2gl3gI9i7yd95qnEQGod0vT1m7rw46hWc+Bn49m+DqkNbXGK+mKeGMNBbrxXEUU0P92shruZC4Ml8MA==|920
