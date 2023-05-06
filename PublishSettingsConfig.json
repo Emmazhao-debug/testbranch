@@ -1,0 +1,98 @@
+[
+  {
+    "IsInternal": true,
+    "Name": "InternalDefaultPublishSettings",
+    "ApplicationUrl": "http://localhost/bug-bash-测试",
+    "PublishSettings": {
+      "HasHzgCloudSetting": true,
+      "IsPrivateServer": true,
+      "ServerName": "localhost",
+      "UserName": "administrator",
+      "SitePort": 80,
+      "AppName": "bug-bash-测试",
+      "AppStartPage": "<与设计器启动页(页面1)保持一致>",
+      "TakeServeronline": true,
+      "PublishRolesToServer": true,
+      "PublishUsersToServer": true,
+      "PublishOrganizationsToServer": true
+    }
+  },
+  {
+    "Name": "xa-dd3-bks",
+    "ApplicationUrl": "http://xa-dd3-bks/test",
+    "PublishSettings": {
+      "HasHzgCloudSetting": true,
+      "IsPrivateServer": true,
+      "ServerName": "xa-dd3-bks",
+      "UserName": "administrator",
+      "SitePort": 80,
+      "AppName": "test",
+      "AppStartPage": "<与设计器启动页保持一致>(FGC_棋盘式导航首页_手机端)",
+      "TakeServeronline": true,
+      "PublishRolesToServer": true
+    }
+  },
+  {
+    "Name": "localhost",
+    "ApplicationUrl": "http://localhost/test",
+    "PublishSettings": {
+      "HasHzgCloudSetting": true,
+      "IsPrivateServer": true,
+      "ServerName": "localhost",
+      "UserName": "administrator",
+      "SitePort": 80,
+      "AppName": "test",
+      "AppStartPage": "<与设计器启动页保持一致>(FGC_棋盘式导航首页_手机端)",
+      "TakeServeronline": true,
+      "PublishRolesToServer": true
+    }
+  },
+  {
+    "Name": "发布设置1",
+    "ApplicationUrl": "http://localhost/cesshi",
+    "PublishSettings": {
+      "HasHzgCloudSetting": true,
+      "IsPrivateServer": true,
+      "ServerName": "localhost",
+      "UserName": "administrator",
+      "SitePort": 80,
+      "AppName": "cesshi",
+      "AppStartPage": "<与设计器启动页(页面378990)保持一致>",
+      "TakeServeronline": true,
+      "PublishRolesToServer": true
+    }
+  },
+  {
+    "Name": "胡森的發佈設置",
+    "ApplicationUrl": "https://xa-dd3-hu/test",
+    "PublishSettings": {
+      "HasHzgCloudSetting": true,
+      "IsPrivateServer": true,
+      "ServerName": "xa-dd3-hu",
+      "UserName": "Administrator",
+      "SitePort": 443,
+      "AppName": "test",
+      "AppStartPage": "胡森测试统计行",
+      "AppStartPageIsDifferWithDesigner": true,
+      "TakeServeronline": true,
+      "Https": true,
+      "PublishRolesToServer": true
+    }
+  },
+  {
+    "Name": "jeffery's setting",
+    "ApplicationUrl": "http://127.0.0.1/bug-bash-02",
+    "Remark": "jeffery's setting",
+    "PublishSettings": {
+      "HasHzgCloudSetting": true,
+      "IsPrivateServer": true,
+      "ServerName": "127.0.0.1",
+      "UserName": "administrator",
+      "SitePort": 80,
+      "AppName": "bug-bash-02",
+      "AppStartPage": "<与设计器启动页保持一致>(胡森测试统计行)",
+      "TakeServeronline": true,
+      "PublishRolesToServer": true
+    }
+  }
+]

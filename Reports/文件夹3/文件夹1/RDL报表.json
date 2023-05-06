@@ -1,0 +1,264 @@
+{
+  "Name": "RDL报表",
+  "DataSources": [
+    {
+      "Name": "数据源1",
+      "GUID": "b5f90fc1-7303-491b-b22d-ee785953c029",
+      "DataSourceSetting": {
+        "TableName": "ACT_RE_PROCDEF",
+        "BindingInfos": [
+          {
+            "GUID": "8865f7c1-210a-44a4-a550-a718b45eaa3e",
+            "BindingInfo": {
+              "TableName": "ACT_RE_PROCDEF",
+              "ColumnName": "ID_",
+              "GUID": "f3ea563c-c3a1-4b6b-ac1f-db84b89887db"
+            },
+            "ColumnName": "ID_"
+          },
+          {
+            "GUID": "3fc180a5-a3c1-4bef-83dc-f118c0d6061b",
+            "BindingInfo": {
+              "TableName": "ACT_RE_PROCDEF",
+              "ColumnName": "REV_",
+              "GUID": "9527b53e-d8e6-4742-b43c-84a06dd16982"
+            },
+            "ColumnName": "REV_"
+          },
+          {
+            "GUID": "dbd19a36-f8b4-4819-80e8-111530812720",
+            "BindingInfo": {
+              "TableName": "ACT_RE_PROCDEF",
+              "ColumnName": "CATEGORY_",
+              "GUID": "b9feb892-7ade-436e-8b00-a7a1a8878f9d"
+            },
+            "ColumnName": "CATEGORY_"
+          },
+          {
+            "GUID": "2efbeba0-b7a2-4301-991a-6bc81e50d237",
+            "BindingInfo": {
+              "TableName": "ACT_RE_PROCDEF",
+              "ColumnName": "NAME_",
+              "GUID": "105a293c-9f84-4ec3-9b8b-e9cfefe7cd6b"
+            },
+            "ColumnName": "NAME_"
+          },
+          {
+            "GUID": "f71d1306-587e-4546-b5d5-1aa87c1306d8",
+            "BindingInfo": {
+              "TableName": "ACT_RE_PROCDEF",
+              "ColumnName": "KEY_",
+              "GUID": "2bce544a-0469-4104-ae3e-edc0bb4828ae"
+            },
+            "ColumnName": "KEY_"
+          },
+          {
+            "GUID": "d887ed0c-d516-4045-9163-7608703bc260",
+            "BindingInfo": {
+              "TableName": "ACT_RE_PROCDEF",
+              "ColumnName": "VERSION_",
+              "GUID": "52de9b5e-d442-4f71-8daa-b707d976c254"
+            },
+            "ColumnName": "VERSION_"
+          },
+          {
+            "GUID": "fd1e6b90-33b4-4f9f-9f9f-921f3db59fdd",
+            "BindingInfo": {
+              "TableName": "ACT_RE_PROCDEF",
+              "ColumnName": "DEPLOYMENT_ID_",
+              "GUID": "533061e8-196d-4f2d-b072-1b919662dc34"
+            },
+            "ColumnName": "DEPLOYMENT_ID_"
+          },
+          {
+            "GUID": "293cf52b-b52c-44fc-9500-d1c6b73e71c7",
+            "BindingInfo": {
+              "TableName": "ACT_RE_PROCDEF",
+              "ColumnName": "RESOURCE_NAME_",
+              "GUID": "51e48ced-4433-4ad1-9f7d-4b2afcbcdc94"
+            },
+            "ColumnName": "RESOURCE_NAME_"
+          },
+          {
+            "GUID": "60690299-a1ae-4a43-8e57-58f4394fac02",
+            "BindingInfo": {
+              "TableName": "ACT_RE_PROCDEF",
+              "ColumnName": "DGRM_RESOURCE_NAME_",
+              "GUID": "e423a767-0c9a-4237-ad28-3da7a4ef9388"
+            },
+            "ColumnName": "DGRM_RESOURCE_NAME_"
+          },
+          {
+            "GUID": "2c785563-7f77-4e2e-9623-397bf6eb110b",
+            "BindingInfo": {
+              "TableName": "ACT_RE_PROCDEF",
+              "ColumnName": "DESCRIPTION_",
+              "GUID": "868d81f0-8f0f-421d-8def-910a819d23fb"
+            },
+            "ColumnName": "DESCRIPTION_"
+          },
+          {
+            "GUID": "052802e9-530d-4123-beb7-e48c7fc69a92",
+            "BindingInfo": {
+              "TableName": "ACT_RE_PROCDEF",
+              "ColumnName": "HAS_START_FORM_KEY_",
+              "GUID": "64cc4639-26d4-4cec-bc08-8a7b30ea6af6"
+            },
+            "ColumnName": "HAS_START_FORM_KEY_"
+          },
+          {
+            "GUID": "3e117c19-41da-4d97-af3b-94ac00e7616d",
+            "BindingInfo": {
+              "TableName": "ACT_RE_PROCDEF",
+              "ColumnName": "HAS_GRAPHICAL_NOTATION_",
+              "GUID": "38aa561d-5eb7-4aa3-8fab-0417508216b6"
+            },
+            "ColumnName": "HAS_GRAPHICAL_NOTATION_"
+          },
+          {
+            "GUID": "6d17cb33-344c-4b13-afad-727f39888ffc",
+            "BindingInfo": {
+              "TableName": "ACT_RE_PROCDEF",
+              "ColumnName": "SUSPENSION_STATE_",
+              "GUID": "3f389d64-1c79-407f-8354-bf3a6d3a69d6"
+            },
+            "ColumnName": "SUSPENSION_STATE_"
+          },
+          {
+            "GUID": "803a73d4-7bd4-47db-a0aa-ad2a28425b08",
+            "BindingInfo": {
+              "TableName": "ACT_RE_PROCDEF",
+              "ColumnName": "TENANT_ID_",
+              "GUID": "db901d9c-b045-4e72-9aca-8d230ec789b1"
+            },
+            "ColumnName": "TENANT_ID_"
+          },
+          {
+            "GUID": "351a2f6f-5d61-4a10-8403-2a55f84b96e3",
+            "BindingInfo": {
+              "TableName": "ACT_RE_PROCDEF",
+              "ColumnName": "ENGINE_VERSION_",
+              "GUID": "ce6c71c3-cdd7-46c4-887c-15fcf0ecb132"
+            },
+            "ColumnName": "ENGINE_VERSION_"
+          },
+          {
+            "GUID": "ddd2cc8d-9a0b-4b7c-b29b-c43ea6f9632f",
+            "BindingInfo": {
+              "TableName": "ACT_RE_PROCDEF",
+              "ColumnName": "APP_VERSION_",
+              "GUID": "81e05fe2-372b-4b59-beac-aa3421d95bff"
+            },
+            "ColumnName": "APP_VERSION_"
+          },
+          {
+            "GUID": "fc7da9dc-5494-49d1-9bd7-71a233a15f80",
+            "BindingInfo": {
+              "TableName": "ACT_RE_PROCDEF",
+              "ColumnName": "FGC_Creator",
+              "GUID": "0bc1e891-2cc4-4bb9-9bda-406d69a5613f"
+            },
+            "ColumnName": "创建者"
+          },
+          {
+            "GUID": "8a4d5eb1-6aef-419d-913b-24aca56a6b64",
+            "BindingInfo": {
+              "TableName": "ACT_RE_PROCDEF",
+              "ColumnName": "FGC_CreateDate",
+              "GUID": "ccd07e89-ed85-45fa-9015-ae55193acec4"
+            },
+            "ColumnName": "创建日期"
+          },
+          {
+            "GUID": "0ec985d3-d83f-4d73-b393-5d0d89e3509e",
+            "BindingInfo": {
+              "TableName": "ACT_RE_PROCDEF",
+              "ColumnName": "FGC_LastModifier",
+              "GUID": "70dd5906-b307-402a-8f58-8a855b5d5843"
+            },
+            "ColumnName": "最后更新者"
+          },
+          {
+            "GUID": "ef7f7cb2-e15c-4cb5-8deb-d25c73c29082",
+            "BindingInfo": {
+              "TableName": "ACT_RE_PROCDEF",
+              "ColumnName": "FGC_LastModifyDate",
+              "GUID": "35d29867-79b4-49cf-a4c3-a21a539058d1"
+            },
+            "ColumnName": "最后更新日期"
+          }
+        ],
+        "SqlCondition": {
+          "$type": "ForguncyDataAccess.RelationSqlCondition, ForguncyDataAccess",
+          "SubConditions": [
+            {
+              "$type": "ForguncyDataAccess.GeneralCESqlCondition, ForguncyDataAccess",
+              "ColumnBindingInfo": {
+                "TableName": "ACT_RE_PROCDEF",
+                "ColumnName": "ID_",
+                "GUID": "286e9299-80bd-4715-bf8a-04cb07b34226"
+              }
+            },
+            {
+              "$type": "ForguncyDataAccess.GeneralCESqlCondition, ForguncyDataAccess",
+              "ColumnBindingInfo": {
+                "TableName": "ACT_RE_PROCDEF",
+                "ColumnName": "ID_",
+                "GUID": "7dee8f7e-bc92-4772-bb28-2f9202aca604"
+              }
+            }
+          ]
+        }
+      },
+      "ColumnsType": [
+        "string",
+        "integer",
+        "string",
+        "string",
+        "string",
+        "integer",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "string",
+        "integer",
+        "string",
+        "date-time",
+        "string",
+        "date-time"
+      ]
+    }
+  ],
+  "AllowAccessRoleList": [],
+  "PermissionData": {
+    "$type": "Forguncy.RbacPermission.Core.Impl.ActiveReport.ActiveReportPermissionData, Forguncy.RbacPermission.Core",
+    "permissionResource": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.ActiveReport.ActiveReportPermissionResource, Forguncy.RbacPermission.Core",
+      "activeReportType": 1,
+      "type": 6
+    },
+    "permissionBindings": [
+      {
+        "$type": "Forguncy.RbacPermission.Core.Impl.ActiveReport.ActiveReportPermissionBinding, Forguncy.RbacPermission.Core",
+        "activeReportPermissionType": 1,
+        "roleNames": [
+          "boss"
+        ]
+      },
+      {
+        "$type": "Forguncy.RbacPermission.Core.Impl.ActiveReport.ActiveReportPermissionBinding, Forguncy.RbacPermission.Core",
+        "activeReportPermissionType": 2,
+        "roleNames": [
+          "Administrator"
+        ]
+      }
+    ]
+  },
+  "ReportType": 1,
+  "Weight": 1
+}

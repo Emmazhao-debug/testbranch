@@ -1,0 +1,16 @@
+{
+  "Name": "服务端命令4",
+  "Enabled": true,
+  "Triggers": [
+    {
+      "$type": "Forguncy.ServerCommands.Models.InvokeTrigger, ServerDesignerCommon"
+    }
+  ],
+  "Commands": [
+    {
+      "$type": "OperateFilesCommand.DownloadFileCommand, OperateFilesCommand",
+      "FilePath": "1",
+      "DownloadFileName": "2"
+    }
+  ]
+}

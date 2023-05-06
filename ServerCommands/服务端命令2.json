@@ -1,0 +1,29 @@
+{
+  "Name": "服务端命令2",
+  "Enabled": true,
+  "Triggers": [
+    {
+      "$type": "Forguncy.ServerCommands.Models.InvokeTrigger, ServerDesignerCommon"
+    }
+  ],
+  "Commands": [
+    {
+      "$type": "Forguncy.Model.Commands.SetParameterCommand, ServerDesignerCommon",
+      "ParameterName": "test2",
+      "ParameterValue": "123",
+      "ID": "0e8dfe9aa5a34b4e9aaa68b39d931543"
+    },
+    {
+      "$type": "Forguncy.Model.Commands.SetParameterCommand, ServerDesignerCommon",
+      "ParameterName": "test3",
+      "ParameterValue": "123",
+      "ID": "db94f8fb584140bcadf7f2a983da43ea"
+    },
+    {
+      "$type": "Forguncy.Model.Commands.SetParameterCommand, ServerDesignerCommon",
+      "ParameterName": "test4",
+      "ParameterValue": "123",
+      "ID": "b235655c65204be08678177034b227c1"
+    }
+  ]
+}

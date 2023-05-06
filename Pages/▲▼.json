@@ -1,0 +1,139 @@
+{
+  "Rows": {
+    "Count": 28
+  },
+  "Cols": {
+    "Count": 18
+  },
+  "Formulas": {
+    "24,0": "ODATA(\"采购订单付款历史表/$count\")"
+  },
+  "AttachInfos": {
+    "24,0": {
+      "CellType": {
+        "$type": "Forguncy.CustomMenu.ForguncyMobileMenuCellType, Forguncy.CustomMenu",
+        "Items": [
+          {
+            "Text": "菜单1",
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Text": "菜单1_1",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Text": "菜单1_2",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          },
+          {
+            "Text": "菜单2",
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Text": "菜单2_1",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Text": "菜单2_2",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          },
+          {
+            "Text": "菜单3",
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Text": "菜单3_1",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Text": "菜单3_2",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          }
+        ],
+        "MenuLevelsStyle": [
+          {
+            "BackColor": "#f5f5f5",
+            "ForeColor": "#333333",
+            "FontSize": 16.0,
+            "Height": 45.0
+          },
+          {
+            "BackColor": "#fff",
+            "ForeColor": "#333333",
+            "FontSize": 16.0,
+            "Bold": false,
+            "Height": 32.0
+          }
+        ]
+      }
+    }
+  },
+  "StyleDatas": {
+    "Types": {
+      "Strs": [
+        "Body"
+      ]
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "24,0,4,18"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "MasterPageName": "FGC_页面模板_母版页_手机端",
+    "PermissionData": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
+      "permissionResource": {
+        "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionResource, Forguncy.RbacPermission.Core"
+      },
+      "permissionBindings": [
+        {
+          "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionBinding, Forguncy.RbacPermission.Core",
+          "roleNames": [
+            "FGC_LoginUser"
+          ]
+        }
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": [],
+    "IsMobilePage": true
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  },
+  "CustomNames": [
+    {
+      "Name": "abc",
+      "Formula": "▲▼!$A$25"
+    }
+  ]
+}//U0dBebEYpy0WXtZUU/lIQY7wIBclBwGbMoQxvZgQDPVPhz1vaTaTyOphhwwqVnD25yVvkHDpFg1RNwrZx5QH9LdE8AmPUjb4RomvE70S2PcAJBYgCYUxEQQzYQVOjezoRyeLRxaU8D+DX8kIaTjPuIiMtQxw+ojCQzJhQl0hs1IOtSR/eDPrtOKopVkOp+lqM70EHerUAVfxum0T078BBPLNzwbjcOFD31YUBXVURYfg3bGs9VyGPRK47l8+2fo2P/4f2TfW4x2tvmDfoMJBapMbvzUhHGTA6rn50OyQSR6HJeb7P73G/40f6NRBVReOaWsG7Ht/xvQUYIZbEG2hKjpGgKeuWismTAvuytp6rsn6YQMray22b/bnqBZJ4Hvr0ZQoSqbSVyLkj+Dszd2bIicB7qEYI6grtxDT84UadIFDQXH/DfAzDTDvPNVugYFJuLEqFIKHBKdpnk29/t6k1f672Nx8kCK14reieXGK/OGJHtjlk8ou1Y9gQ1DlahMMH+f5wUMnORk/CL6zeTk6VlYF8DRMCo0BYX3TeJ1JNWsbOemQ9bhVUx2JVjxp/PGMTCkQGgWW0GEi2XaDtTaiE7knND5yXxrtxcXEangBOl+w/8qu2SfbEwbmubyMPdCQ0f73LS/OXKW4HpDnIm3XAO3+OTj8DDp0zwETb4bDBHN+RIa5fEwIbTwt+/DHYnI5ZgU4S49jFHZdQeZhuHfDaw7kkwG3CeYs/SUCpWxDcjJXlJJWHAkzCTV9/HnA0mABrFYfMviy0DoXLybwKN9Cs4drogFR0mcSrMHsaQt5kaRYTso5fpTjMT0qUt9r9iDWR3XYwH+fV4cR6lCEnJ4XCcdEHaZDbOBnXowjBwSwFh3yZjdEnLoRtSj/tIA88HyyQ1rD1nvBqX1fW+qBgadZpg==|920

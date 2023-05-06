@@ -1,0 +1,192 @@
+{
+  "Rows": {
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "Values": {
+    "10,11": "打开RDL报表",
+    "13,11": "打开页面报表"
+  },
+  "AttachInfos": {
+    "3,7": {
+      "CellType": {
+        "$type": "Forguncy.CurrentUserCellType, ServerDesignerCommon",
+        "CellCustomValue": "%CurrentUser%",
+        "ShowCircleUserPicture": true,
+        "NavigateSettingWhenLogout": {
+          "NavigateWhenLogoutMode": 1
+        }
+      }
+    },
+    "10,11": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.OpenActiveReportCommand, ServerDesignerCommon",
+            "SessionGuid": "69e32f85-401a-472b-90dc-5e89445eb4a6",
+            "OpenReportName": "RDL报表",
+            "PassParameters": [
+              {
+                "TargetParameter": "1"
+              },
+              {
+                "TargetParameter": "3"
+              },
+              {
+                "TargetParameter": "2"
+              }
+            ]
+          }
+        ],
+        "Text": "打开RDL报表",
+        "TemplateKey": "_RS_Main1"
+      }
+    },
+    "10,30": {
+      "CellType": {
+        "$type": "Forguncy.TextCellType, ServerDesignerCommon",
+        "SavedValidators": [
+          {
+            "$type": "Forguncy.CellTypes.Models.UniqueValidadator, ServerDesignerCommon"
+          }
+        ],
+        "TemplateKey": "_RS_NewLittleRoundCorner",
+        "UIPermissions": [
+          {
+            "Scope": 2,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Scope": 1,
+            "AllowRoles": [
+              "FGC_Anonymous"
+            ]
+          },
+          {
+            "Scope": 4,
+            "Enabled": true,
+            "AllowRoles": [
+              "FGC_LoginUser",
+              "FGC_Anonymous"
+            ]
+          }
+        ]
+      }
+    },
+    "13,11": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.OpenActiveReportCommand, ServerDesignerCommon",
+            "SessionGuid": "9795ab99-20e5-4874-a81b-57074ee95263",
+            "OpenReportName": "页面报表",
+            "PassParameters": [
+              {
+                "TargetParameter": "3"
+              },
+              {
+                "TargetParameter": "1"
+              },
+              {
+                "TargetParameter": "2"
+              }
+            ]
+          }
+        ],
+        "Text": "打开页面报表",
+        "TemplateKey": "_RS_Main1"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "Formatter": 0
+      },
+      {
+        "FontFamily": 1,
+        "Formatter": 2
+      },
+      {
+        "FontFamily": 1
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "@",
+        "Body",
+        "[AUTO]General"
+      ]
+    },
+    "CellStyles": {
+      "10,30": 0,
+      "13,11": 1,
+      "13,12": 2,
+      "13,13": 2,
+      "13,14": 2,
+      "13,15": 2,
+      "13,16": 2,
+      "13,17": 2,
+      "13,18": 2,
+      "13,19": 2,
+      "13,20": 2,
+      "13,21": 2,
+      "13,22": 2,
+      "13,23": 2,
+      "13,24": 2,
+      "14,11": 2,
+      "14,12": 2,
+      "14,13": 2,
+      "14,14": 2,
+      "14,15": 2,
+      "14,16": 2,
+      "14,17": 2,
+      "14,18": 2,
+      "14,19": 2,
+      "14,20": 2,
+      "14,21": 2,
+      "14,22": 2,
+      "14,23": 2,
+      "14,24": 2
+    },
+    "SheetStyle": {
+      "FontFamily": 1
+    }
+  },
+  "Spans": [
+    "3,7,2,12",
+    "10,11,2,14",
+    "10,30,2,8",
+    "13,11,2,14"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "PermissionData": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
+      "permissionResource": {
+        "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionResource, Forguncy.RbacPermission.Core"
+      },
+      "permissionBindings": [
+        {
+          "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionBinding, Forguncy.RbacPermission.Core",
+          "roleNames": [
+            "FGC_LoginUser",
+            "FGC_Anonymous"
+          ]
+        }
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  }
+}//dO8zZVZVbI63Ui80Zs6fAK+hcA+VMMcxlWzPsRTz/bvZXp63YiJgxpcTSD2GRANtAUxnWxuI8ObnSgmZD/LiAg0BzqN+rF0fOGTwY6gR2SmKm8W1hqlpekjsyPEqMjHnoRFFyaM3pGagjCaypYOKNaLotElirirUTi3FuAagB6KYs6sE0lFpsZ4QCAb6e61dOms8LB4R87Ju7Qh3ZOQTbEFAIBInDC5aaZUHUeeFPsh0yBLN9ylqQ0ucr5JzD9l/auAw3/malucvzdfSDm9OFqlv7tTigN3yMlhMDnbaplXld3bBBWmVJepOtTlnwTFdN4VDziIDlc1lpoUYDE5+UkyFtMpCL/wKc4biDa6acidokjnGbgx2JxssAcPVL7XfxNzCMxdQOZ5Rv6i8rSw+lNNffmrmjppW07meoOFzXfcLhAMD5YNHZ6BHzyeBwhEoYsvxAEH8FrVd7REugI6JwTg07uAzQDzVCFDxESj1M+0upwo5ZOqSVVJS5Fn/O9kFzBppUpCNGkG5A/1S4NE6T766VdP6x0wLPc+uQR8byzfZjLMMyTLbkgVJH680pXtpKlxEO98iukRomTiao2fbWKvRWw69ur73zf77l5/YZoD6ON0P5qIlU4ZpccRusOJjtII8iLSySklmx7KJLQgUT+u+FRhJqItCZxxfkgE65Z+4pL59fwI5E+XnR0Zv2EWNXxmlS9RkyzQQqNS8wSwSHPTtGLDB36Xz9Rp496b4xB8FbMtmmB4QgicQ3ZdW9b1vMakPSxJbU+DwdhvIjS8YJFr4E6ZXO2B6WyZOauA3S4Ua20Bcg64YIFUMN+zoms/dMeKPLb9weFeH6Kdh4sXImyqu82wumcnsY++K1pdCEwPNgZ6XRdRJ5dMUPXi2Ax7RnATmQOexEWf2pnprwInrOg==|920

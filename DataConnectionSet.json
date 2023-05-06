@@ -1,0 +1,20 @@
+[
+  {
+    "ConnectionString": "Server=xa-dd3-bks;User ID=forguncy;Password=xA123456;Database=test1;Port=3306",
+    "Remark": "sss",
+    "DataBaseType": 6,
+    "ID": "MySql1"
+  },
+  {
+    "ConnectionString": "Data Source=10.32.2.196;Initial Catalog=workflow;Persist Security Info=True;User ID=sa;Password=xA123456",
+    "Remark": "jeffery's db",
+    "DataBaseType": 1,
+    "ID": "SqlServer1"
+  },
+  {
+    "ConnectionString": "Server=xa-dd3-fgcp14;User ID=root;Password=xA123456;Database=brantytest1;Port=3306",
+    "Remark": "阎琳",
+    "DataBaseType": 6,
+    "ID": "阎琳"
+  }
+]

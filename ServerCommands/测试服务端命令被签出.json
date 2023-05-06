@@ -1,0 +1,85 @@
+{
+  "Name": "测试服务端命令被签出",
+  "Enabled": true,
+  "Triggers": [
+    {
+      "$type": "Forguncy.ServerCommands.Models.PostRequestTrigger, ServerDesignerCommon",
+      "Permission": {
+        "PermissionData": {
+          "$type": "Forguncy.RbacPermission.Core.Impl.ServerCommand.ServerCommandPermissionData, Forguncy.RbacPermission.Core",
+          "permissionResource": {
+            "$type": "Forguncy.RbacPermission.Core.Impl.ServerCommand.ServerCommandPermissionResource, Forguncy.RbacPermission.Core"
+          },
+          "permissionBindings": [
+            {
+              "$type": "Forguncy.RbacPermission.Core.Impl.ServerCommand.ServerCommandPermissionBinding, Forguncy.RbacPermission.Core",
+              "roleNames": [
+                "FGC_LoginUser"
+              ]
+            }
+          ]
+        }
+      },
+      "Parameters": [
+        {
+          "Name": "参数1"
+        },
+        {
+          "Name": "参数3"
+        },
+        {
+          "Name": "参数4"
+        },
+        {
+          "Name": "参数2"
+        }
+      ]
+    }
+  ],
+  "Commands": [
+    {
+      "$type": "Forguncy.Model.ConditionCommand, ServerDesignerCommon",
+      "ConditionAndCommandPairList": [
+        {
+          "CommandList": [],
+          "ID": "a97c7e98-f180-4a17-ac7f-933a945aa028"
+        }
+      ]
+    },
+    {
+      "$type": "Forguncy.Model.Commands.SetParameterCommand, ServerDesignerCommon",
+      "ParameterName": "test01",
+      "ParameterValue": "123",
+      "ID": "0dd3e904928d433ba16dce8580287174"
+    },
+    {
+      "$type": "Forguncy.Model.Commands.SetParameterCommand, ServerDesignerCommon",
+      "ParameterName": "test1",
+      "ParameterValue": "123",
+      "ID": "f1d1145819eb4d2584abbe05649e01d1"
+    },
+    {
+      "$type": "Forguncy.Model.RequestServerCommand, ServerDesignerCommon",
+      "ServerCommandName": "服务端命令2",
+      "CheckDataValidation": true
+    },
+    {
+      "$type": "Forguncy.Model.Commands.SetParameterCommand, ServerDesignerCommon",
+      "ParameterName": "test5",
+      "ParameterValue": "123",
+      "ID": "b3281c857eaf44fcb85bd097cdeb3c30"
+    },
+    {
+      "$type": "Forguncy.Model.Commands.SetParameterCommand, ServerDesignerCommon",
+      "ParameterName": "test6",
+      "ParameterValue": "123",
+      "ID": "6deb265cf13a4a9692f3da33f2d99bb8"
+    },
+    {
+      "$type": "Forguncy.Model.Commands.SetParameterCommand, ServerDesignerCommon",
+      "ParameterName": "test7",
+      "ParameterValue": "123",
+      "ID": "32e627e6241d4311a75253fbd00981f9"
+    }
+  ]
+}

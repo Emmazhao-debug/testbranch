@@ -1,0 +1,58 @@
+{
+  "Name": "服务端命令1",
+  "Enabled": true,
+  "Triggers": [
+    {
+      "$type": "Forguncy.ServerCommands.Models.PostRequestTrigger, ServerDesignerCommon",
+      "Permission": {
+        "PermissionData": {
+          "$type": "Forguncy.RbacPermission.Core.Impl.ServerCommand.ServerCommandPermissionData, Forguncy.RbacPermission.Core",
+          "permissionResource": {
+            "$type": "Forguncy.RbacPermission.Core.Impl.ServerCommand.ServerCommandPermissionResource, Forguncy.RbacPermission.Core"
+          },
+          "permissionBindings": [
+            {
+              "$type": "Forguncy.RbacPermission.Core.Impl.ServerCommand.ServerCommandPermissionBinding, Forguncy.RbacPermission.Core",
+              "roleNames": [
+                "FGC_LoginUser",
+                "FGC_Anonymous"
+              ]
+            }
+          ]
+        }
+      },
+      "Parameters": [
+        {
+          "Name": "参数1",
+          "Remark": "test\r\ntest2\r\n佛挡杀佛"
+        },
+        {
+          "Name": "参数2"
+        },
+        {
+          "Name": "参数3"
+        }
+      ]
+    }
+  ],
+  "Commands": [
+    {
+      "$type": "OperateFilesCommand.DownloadFileCommand, OperateFilesCommand",
+      "FilePath": "aaa"
+    }
+  ],
+  "ReturnProperties": [
+    {
+      "Name": "返回值1",
+      "Remark": "阿斯蒂芬"
+    },
+    {
+      "Name": "返回值2",
+      "Remark": ""
+    },
+    {
+      "Name": "返回值3",
+      "Remark": ""
+    }
+  ]
+}

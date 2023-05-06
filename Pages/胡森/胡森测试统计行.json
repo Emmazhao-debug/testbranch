@@ -1,0 +1,207 @@
+{
+  "Rows": {
+    "Count": 45,
+    "DefaultSize": 28.0
+  },
+  "Cols": {
+    "RowColumnAttachedInfos": {
+      "6": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 206.0
+        }
+      },
+      "7": {
+        "GridRowColumnDefinition": {
+          "DesignLengthInPixel": 105.0
+        }
+      }
+    },
+    "Count": 60,
+    "DefaultSize": 52.0
+  },
+  "AttachInfos": {
+    "5,7": {
+      "ListViewInfo": {
+        "Name": "表格1",
+        "TableName": "FGC_区域订单表",
+        "RowIndex": 5,
+        "ColumnIndex": 7,
+        "RowCount": 15,
+        "ColumnCount": 30,
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_NewFashionListStyle2",
+        "ShowColumnHeaderInDesigner": true,
+        "IsTotalRowVisible": true,
+        "ShowEditStatusIcon": true,
+        "UseSimpleBar": true,
+        "ColumnOperation": 2
+      }
+    },
+    "6,7": {
+      "BindingInfo": {
+        "TableName": "FGC_区域订单表",
+        "ColumnName": "ID",
+        "GUID": "61ea12ea-f3f4-4c10-a5fc-a054af17aa95"
+      }
+    },
+    "6,15": {
+      "TotalRowSetting": {
+        "StaticText": {
+          "$type": "Forguncy.Model.FormulaReferObject, ServerDesignerCommon",
+          "SerializeProperty": "=SUM(胡森测试统计行!P7)"
+        },
+        "StyleInfo": {
+          "FontFamily": "仿宋",
+          "FontSize": 10.666666666666666,
+          "FontStyle": "Italic",
+          "TextIndent": 3,
+          "Foreground": "Accent 1 0",
+          "Underline": true,
+          "Strikethrough": true
+        }
+      },
+      "BindingInfo": {
+        "TableName": "FGC_区域订单表",
+        "ColumnName": "月份",
+        "GUID": "fee6daaf-6d13-4323-814c-eaa19043fec5"
+      }
+    },
+    "33,3": {
+      "CellType": {
+        "$type": "Forguncy.CustomMenu.ForguncyTreeCellType, Forguncy.CustomMenu",
+        "Items": [
+          {
+            "Value": "结点1",
+            "Text": "结点1",
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Value": "结点1_1",
+                "Text": "结点1_1",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "结点1_2",
+                "Text": "结点1_2",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          },
+          {
+            "Value": "结点2",
+            "Text": "结点2",
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Value": "结点2_1",
+                "Text": "结点2_1",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "结点2_2",
+                "Text": "结点2_2",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          },
+          {
+            "Value": "结点3",
+            "Text": "结点3",
+            "CanVisitRoleList": [
+              "FGC_Anonymous"
+            ],
+            "SubItems": [
+              {
+                "Value": "结点3_1",
+                "Text": "结点3_1",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              },
+              {
+                "Value": "结点3_2",
+                "Text": "结点3_2",
+                "CanVisitRoleList": [
+                  "FGC_Anonymous"
+                ]
+              }
+            ]
+          }
+        ],
+        "LeafIcon": {
+          "Name": "fgc_built-in-page-401.png"
+        },
+        "ExpandIcon": {
+          "Name": "Application/004_add_4.svg",
+          "BuiltIn": true,
+          "Color": "Accent 1",
+          "UseCellTypeForeColor": true
+        },
+        "TemplateKey": "_RS_NewFashionStyle1"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Types": {
+      "Strs": [
+        "Body"
+      ]
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "7,7,13,30",
+    "6,7,1,8",
+    "6,15,1,7",
+    "33,3,7,4",
+    "5,7,1,8",
+    "5,15,1,7"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "PermissionData": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
+      "permissionResource": {
+        "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionResource, Forguncy.RbacPermission.Core"
+      },
+      "permissionBindings": [
+        {
+          "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionBinding, Forguncy.RbacPermission.Core",
+          "roleNames": [
+            "FGC_LoginUser"
+          ]
+        }
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  },
+  "Pictures": [
+    {
+      "Name": "e485cfa8-7b05-4955-9cb3-98a4c07b4c9a.png",
+      "ForguncyPictureName": "fgc_built-in-page-401.png",
+      "ForguncyPictureSourceType": 0,
+      "Stretch": 2,
+      "Location": "104,672",
+      "Size": "414,196"
+    }
+  ]
+}//dV8Ni8hDDwBqVvxMJXhE4N4YGDw6Q677FTw2bMwuJ19XKHzpTyZxn2jH2hx6GNhF5D3mAROLcn5VQm3SvUrN5q02wBXtDyeThv6detMPgqhxxiOCinqJ5MEFrAeHc4Jtt76lE2S9hVYgD7LzfVSaihLoseKFzm2+Taed+gPFeOc68RQF2FaUXW5aCgrSCAu9l1Il13de+uksekRAJ2j865yPgSgs4EDf12CCBU6WULD+M1vhfHhuWBiJsYCvaR5+PA7q1qQEOK6KXW8YoshllKEUiPqLee4OV37ja/YAW4khZW2NvXkSGojdjpb7GYJpVa5WhwH5J34mY914DU4J/+9tmVqeyIFY0bw+19l0VLRzTwZKEJfPPik/PrJsNUMRn12xbOWsRprui7E3+Bxk4JXKQYZPWuX8NfhX9rBlyYVSdhPCMmiq+tpw/V1vNT/gyLNK9tIAg37Oi0QZQ7rniEzjMBcjVtFzyLwqBRB6AbNIaPhQGj25H9FT5FxUkRi1BpvskpeuVB0GYJERnVA5SPO0PIe4k0p50rMIuaD6g5upV2FFUCsD2IyX9LlEUXI7fMICsaqDp1TKgjJIP4nDLnLGhrIGGxYULB1MYCrv5E4itYmqFWZlNOQwP7JVzZKw/+TF1NOgHbLCPn9RzW7a6O8oKVzck+c/q6lECjL65LCGGTRcf4/qNBMzi+mm3zzw9UgN+ivvZylWfTzGn1Lkf2JhdBYqV4XvFMqbxo1EQeGy3WDwlRbo5R5WMqg3Q/kjhJt/qvJ3eGC7PJjsVmf38o6YdpVXHwGcLv2nOd8V8SNzH24yniZbCEmKy1/+pMEeTGKGfCaE60SP6JhnXU4VO4RE82azXs5M9MxR9dj6HMfRSONc6GipYans0DLYEBKmI6c0JJvPeDyui4F4zHUWSg==|920

@@ -1,0 +1,57 @@
+{
+  "Rows": {
+    "InLogicalVisibleIndexes": [
+      7,
+      8,
+      9
+    ],
+    "Count": 10
+  },
+  "Cols": {
+    "InLogicalVisibleIndexes": [
+      0,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "Count": 18
+  },
+  "AttachInfos": {
+    "1,2": {
+      "TemplateCellSource": "编号"
+    },
+    "4,2": {
+      "TemplateCellSource": "名称"
+    }
+  },
+  "StyleDatas": {
+    "Types": {
+      "Strs": [
+        "Body"
+      ]
+    },
+    "SheetStyle": {
+      "FontFamily": 0,
+      "BorderBottom": null,
+      "BorderTop": null,
+      "BorderLeft": null,
+      "BorderRight": null
+    }
+  },
+  "Spans": [
+    "1,2,2,8",
+    "4,2,2,8"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.TemplatePage, ServerDesignerCommon",
+    "ParentPageName": "repeater"
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  }
+}//AZRFFrMC/exZc+bOmdSdjc75FmuBjM7M8gHmV/UVKropsUnfQJ49LAxU6i8IUQ+tT7lJb6kOU7uRhjbNLNSETg6lVHVGfmRsBlaNeIJ1fkn9dtC1n6EY/dhwQnq1qaUQ8Kh+Cx3Z/RSfZmJlazIszQNH4TIMxD1lnhSyVDW/FD0FE+tZ06PR0UXSzUyAwkeFRQx/YKqIqVA7svRbVi+Xf6VkvrooYDlP029MraZxT5aK+D/KpqTIr1rAmlmr7exb7IB1OkC7MoqTTtPdrKu5bf5Hqj4Qc6xFXBr2GZrgDs2tzxeC7oc4tbxYNdgDEpruC+cnHylzKt0aJyNJtVYwXaoHCvW4ElQJfBOtplWx/D2hlVvUP8sPyu+Oi+z516mT1ZhX0vY1fWSriHvKa83qPTAk7k0HwNQIqWpXXgenst7ah9fqAYDLn/SS6gyMovbHTctueb4Nidaidz093i74DpxIwiqexOZo36e1lIp/izkOUY3TGs7SsA1K3C+B3IC5V615sc1667oOIsqnqdJzlO9Lp7jviEhL71TdQLeMwtOGoGF2FkU13K+ZrhGSMX60dfP0IvMxO4RYKoo+rLlzTo+YSUioo6DR6pPwbXwdO5YNTe4I7GUlgM773FY2N9XIZXg0UUWy4QgCnOMhLlZTKLZX8N450V/rFvwQ+WB3R8+M/s8PpP7rFhKq50vG1/dj3yFhzwvvQ5tqBDq7tcnC728VY0Uzv3ioWKu0Lb04siTPOpjSO5kyInB4rvr6KEJweLH+DXKIN6GN2OkJeivM9K3FAHdLpanYbNFzJio5RXPyCajOMb2o06POACFT5WHHMmUYly19sMrOjmvFRQt7orDj6kGGQzR6byFb0nsO/WDfmk/UAR4YzVLPkBlivhFSDL1334bzM+07enKK3BeycA==|920

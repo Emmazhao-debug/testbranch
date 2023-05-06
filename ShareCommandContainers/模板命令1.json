@@ -1,0 +1,25 @@
+{
+  "Name": "模板命令1",
+  "ID": "e435982d-7c8d-4ace-b527-d4424c7d0bbe",
+  "Params": [
+    {
+      "ID": "7dac2680-13a5-4665-8673-469dff1aca74",
+      "Name": "参数1"
+    }
+  ],
+  "Commands": [
+    {
+      "$type": "Forguncy.Model.NavigateCommand, ServerDesignerCommon",
+      "PageName": "FGC_商品信息编辑页",
+      "PassValues": [
+        {
+          "Source": "添加",
+          "TargetCell": {
+            "SerializeProperty": "=参数1"
+          }
+        }
+      ],
+      "LoadBindingDataOption": 2
+    }
+  ]
+}

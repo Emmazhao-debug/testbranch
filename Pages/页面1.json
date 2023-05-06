@@ -1,0 +1,74 @@
+{
+  "Rows": {
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "Values": {
+    "6,7": "sdf "
+  },
+  "AttachInfos": {
+    "13,6": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.OpenActiveReportWebDesignerCommand, ServerDesignerCommon",
+            "OpenReportName": "RDL报表"
+          }
+        ],
+        "TemplateKey": "_RS_Main1"
+      }
+    },
+    "20,6": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.OpenActiveReportWebDesignerCommand, ServerDesignerCommon",
+            "OpenReportName": "报表4"
+          }
+        ],
+        "TemplateKey": "_RS_Main1"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Types": {
+      "Strs": [
+        "Body"
+      ]
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "13,6,5,13",
+    "20,6,4,13"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "PermissionData": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
+      "permissionResource": {
+        "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionResource, Forguncy.RbacPermission.Core"
+      },
+      "permissionBindings": [
+        {
+          "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionBinding, Forguncy.RbacPermission.Core",
+          "roleNames": [
+            "FGC_LoginUser"
+          ]
+        }
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  }
+}//CBSrKJYOV0DPucHlFaE9T15UhyliiBsIJQWlB1I7tZngLORmTOwkFSg/dyUBocUgOq+ku/kcwSYVta4vMs1sIhtJb6NV4rFGuyyXFUks/EOH5RtogxkeW5uB407yWE28LHT/d2YR7QgmxZDepv4DY7kJoCNI/J1A/QfNK6+YVbUNtbUJY1FcgpPSjK3eG9WvP+09oOLMP/cHSIfdURfawbqrhDYq/bhOl4MNLVGQ/sMX6E+SslOImuKd2fuXdM2wNwQEwrDyMUyN8a2j15WwAV326tWEeQKZFAXLAyuXjJgL/2/Yc68QdBXrWOpe3c9hK7TQI+atubB7xIP3yBCdu5JoMPjqQNtnd/lQL/RBFO3VTmRF9BbbcBnS6jYz0lF3IcRg8xNuNN+NE5rz64sycgPCLxirjf8XhX5TMnH8l1JqGOosPsfaqklYpWo0BZnmVzV1MB6q3r4xGfzpSr8cqxarjq0/xHlIrHL5gJOeZ7u7Xk7YjhgSbrn9yswxlvD9ljsJmQ9SgFgx/qYcontyvKV2z4k8Da1++YoUSZLsbw4Ukg5n8gxNVpS+BH8VRc2BWrBvm0jKiLlo4gcL0f1PIdaZ0XXmBwwsO29tjulUU2Ja+18Sok58f+0j8/2V2VNmSMr/I6O6bZPfN4nGe2juCN5EgJ+x6oKzVSPC7JvfYBPsUJFatDZDztvDHAmRoVcf/x+a03a39j5lPtLIUff2kDjXJgtaZD0UV0rsH6KZL47r7dHLofOlEa1TjBXcKmoPXq51d1IDu0BkLsDgQ8H31PImfJpgeKmt0IfzTdNNkxELvOaCF4CvkebQLIZv3wdqm5io4On58/TMpoRZ0E0fpUqYSVnuiQoJOtUpfL84oZ59Hr4n/Zmtwua95ntDwM9G+QQqj/3DaeePiOhr2cG/kQ==|920

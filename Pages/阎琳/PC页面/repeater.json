@@ -1,0 +1,273 @@
+{
+  "Rows": {
+    "Count": 30
+  },
+  "Cols": {
+    "Count": 41
+  },
+  "Values": {
+    "1,1": "pdf",
+    "3,1": " "
+  },
+  "AttachInfos": {
+    "0,16": {
+      "ListViewInfo": {
+        "Name": "表格1",
+        "TableName": "物品库存",
+        "ColumnIndex": 16,
+        "RowCount": 3,
+        "ColumnCount": 10,
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_NewFashionListStyle2",
+        "ShowColumnHeaderInDesigner": true,
+        "ShowEditStatusIcon": true,
+        "UseSimpleBar": true,
+        "ColumnOperation": 2
+      }
+    },
+    "1,1": {
+      "CellType": {
+        "$type": "Forguncy.ButtonCellType, ServerDesignerCommon",
+        "CommandList": [
+          {
+            "$type": "Forguncy.Model.ExportPageToPdfCommand, ServerDesignerCommon",
+            "NewOtherName": ""
+          }
+        ],
+        "Text": "pdf",
+        "TemplateKey": "_RS_Main1"
+      }
+    },
+    "1,16": {
+      "NameUsedInJavaScript": "编号",
+      "BindingInfo": {
+        "TableName": "物品库存",
+        "ColumnName": "编号",
+        "GUID": "3688d2b3-8df5-4b56-a073-9ae9dc739c26"
+      }
+    },
+    "1,19": {
+      "NameUsedInJavaScript": "名称",
+      "BindingInfo": {
+        "TableName": "物品库存",
+        "ColumnName": "名称",
+        "GUID": "6e507034-32fd-415e-9cdb-6fb3736d162f"
+      }
+    },
+    "3,1": {
+      "CellType": {
+        "$type": "Forguncy.RepeaterCellType, ServerDesignerCommon",
+        "TemplatePageName": "142b34e3ce644baa8568de774d46a00",
+        "ListviewName": "表格1",
+        "DataSource": {
+          "$type": "ServerDesignerCommon.Model.BindingDataSourceModel, ServerDesignerCommon",
+          "TableName": "物品库存",
+          "BindingInfos": [
+            {
+              "BindingInfo": {
+                "TableName": "物品库存",
+                "ColumnName": "ID",
+                "GUID": "58813a18-04aa-4f9e-bd52-baeccc29b5e3"
+              },
+              "ColumnName": "ID"
+            },
+            {
+              "BindingInfo": {
+                "TableName": "物品库存",
+                "ColumnName": "编号",
+                "GUID": "fc211dc6-dc17-49e6-9ba5-7c11de7a49f8"
+              },
+              "ColumnName": "编号"
+            },
+            {
+              "BindingInfo": {
+                "TableName": "物品库存",
+                "ColumnName": "名称",
+                "GUID": "f2a93db1-722d-45dd-91f4-9e154ed902a4"
+              },
+              "ColumnName": "名称"
+            },
+            {
+              "BindingInfo": {
+                "TableName": "物品库存",
+                "ColumnName": "规格型号",
+                "GUID": "1b9ea76e-40be-4a69-9c51-7d8890958ad6"
+              },
+              "ColumnName": "规格型号"
+            },
+            {
+              "BindingInfo": {
+                "TableName": "物品库存",
+                "ColumnName": "单位",
+                "GUID": "c7748bd8-02cf-490d-b41a-9df6ca4b4e33"
+              },
+              "ColumnName": "单位"
+            },
+            {
+              "BindingInfo": {
+                "TableName": "物品库存",
+                "ColumnName": "当前库存",
+                "GUID": "8863feb3-9c36-40fd-897c-b9a6b4ebde72"
+              },
+              "ColumnName": "当前库存"
+            },
+            {
+              "BindingInfo": {
+                "TableName": "物品库存",
+                "ColumnName": "采购价",
+                "GUID": "462fe842-72c4-40d9-8d4e-607aadf11939"
+              },
+              "ColumnName": "采购价"
+            },
+            {
+              "BindingInfo": {
+                "TableName": "物品库存",
+                "ColumnName": "销售价",
+                "GUID": "bfc86076-5ad3-449f-b68c-6ef6cd76a4a6"
+              },
+              "ColumnName": "销售价"
+            },
+            {
+              "BindingInfo": {
+                "TableName": "物品库存",
+                "ColumnName": "品牌",
+                "GUID": "923c11bc-15a7-4bf8-a9ad-cc6aefd3e32c"
+              },
+              "ColumnName": "品牌"
+            },
+            {
+              "BindingInfo": {
+                "TableName": "物品库存",
+                "ColumnName": "库存上限",
+                "GUID": "a0604317-2280-4073-8f85-691861b2a556"
+              },
+              "ColumnName": "库存上限"
+            },
+            {
+              "BindingInfo": {
+                "TableName": "物品库存",
+                "ColumnName": "库存下限",
+                "GUID": "01904c94-2d04-4e13-9e25-1cbb099755c6"
+              },
+              "ColumnName": "库存下限"
+            },
+            {
+              "BindingInfo": {
+                "TableName": "物品库存",
+                "ColumnName": "商品条码",
+                "GUID": "a249c7c6-06a7-4390-8bbf-1ffe03f08810"
+              },
+              "ColumnName": "商品条码"
+            },
+            {
+              "BindingInfo": {
+                "TableName": "物品库存",
+                "ColumnName": "备注",
+                "GUID": "2c43e35a-edfd-4276-a85d-9bfaaa07149e"
+              },
+              "ColumnName": "备注"
+            },
+            {
+              "BindingInfo": {
+                "TableName": "物品库存",
+                "ColumnName": "FGC_Creator",
+                "GUID": "9f968932-7551-4212-b6ff-23d48419e5b2"
+              },
+              "ColumnName": "创建者"
+            },
+            {
+              "BindingInfo": {
+                "TableName": "物品库存",
+                "ColumnName": "FGC_CreateDate",
+                "GUID": "35d6e2bd-a851-426b-8301-14aacd6e5a80"
+              },
+              "ColumnName": "创建日期"
+            },
+            {
+              "BindingInfo": {
+                "TableName": "物品库存",
+                "ColumnName": "FGC_LastModifier",
+                "GUID": "72d58a11-0aec-42cc-8114-51a235ff094a"
+              },
+              "ColumnName": "最后更新者"
+            },
+            {
+              "BindingInfo": {
+                "TableName": "物品库存",
+                "ColumnName": "FGC_LastModifyDate",
+                "GUID": "2ca99469-f6f5-4999-aabc-30afa0f72c7b"
+              },
+              "ColumnName": "最后更新日期"
+            }
+          ],
+          "IsListviewDataSource": true
+        },
+        "DataSourceListviewName": "图文列表表格1",
+        "DisplayMode": 2,
+        "TemplateKey": "_RS_Selectable"
+      }
+    }
+  },
+  "StyleDatas": {
+    "Styles": [
+      {
+        "FontFamily": 0,
+        "Formatter": 1,
+        "HorizontalAlignment": 2,
+        "BorderBottom": null,
+        "BorderTop": null,
+        "BorderLeft": null,
+        "BorderRight": null
+      }
+    ],
+    "Types": {
+      "Strs": [
+        "Body",
+        "[AUTO]General",
+        "Center"
+      ]
+    },
+    "CellStyles": {
+      "3,1": 0
+    },
+    "SheetStyle": {
+      "FontFamily": 0,
+      "BorderBottom": null,
+      "BorderTop": null,
+      "BorderLeft": null,
+      "BorderRight": null
+    }
+  },
+  "Spans": [
+    "1,1,1,5",
+    "1,16,1,3",
+    "1,19,1,3",
+    "2,16,1,10",
+    "3,1,26,39",
+    "0,16,1,3",
+    "0,19,1,3"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "PermissionData": {
+      "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionData, Forguncy.RbacPermission.Core",
+      "permissionResource": {
+        "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionResource, Forguncy.RbacPermission.Core"
+      },
+      "permissionBindings": [
+        {
+          "$type": "Forguncy.RbacPermission.Core.Impl.Page.PagePermissionBinding, Forguncy.RbacPermission.Core",
+          "roleNames": [
+            "FGC_LoginUser"
+          ]
+        }
+      ]
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "PaperSize": {},
+    "Margin": {}
+  }
+}//qL3BkZPZ3FYdaQLLxQIBSm2E4Jt+5UQoF2H5a6X/7gv4TRJRHTy/6ygpE61zkUx9HiI2lR6MuG/aqiwhuOIlbxIpTt0m9fTUtO8caCG9hDz/+8KzCbecbhb8q/NlOhcQhZI3gCC5g5reLagJYBfJRjK53jkGQe3bj6nsFTA2o5sE0neSkuF6vErKdYDFDVlVq+hq/F/Lp1CZxrtttAO5a73P04pxPPkOsWqCpdOR/TsD+76EEBCxEt3r/UvehFZm23HBfBJ7Lcx3Hywb+p5tzOv9u3mkuFncV2ynnYofwKCOHgQW3i4ruaoci0W5sE3+3U0vj3Fgvfkl68eTSrZhjBa5IFrRiVnOpgYp4IyntfLELeiyzTpuWr2qTPVsAZ9jRFhWs+aoLNaA7vQ5Uy26A/53LFyZgS2+gD7+ZXLh2vGsnlHYIfn9L0E6SCPizFDlaShgqbgiI6fRYKwuzyFkloTU9aMRAI9wAwer7EjG5UoRaTxfaw6MbppDSR/zUSD/V6hoX0DEy7h6DkYI6/YUl0qere5i6hSyuqcg88/66BKcVKZjdLuZHeHnXXt7TnjPoVDo5/O+Fe1CT5ysED13G3tyO7rpOjIASAo9I+/DsR1ppA9zAA3522EQBCJecStle1+0iv73GsMoD9VeZdbiSiW/VxT0H/rYJkyXwRFyGAl0wL+0t5uxCn6myw38xDypJjF+Ib9uRh9xEek4lvLZLxwEy4E6f64aLhhOVjtUI1+Yro5RjCaqr3s59j610sFOZD6RlFz/qDJ/FDyzd42/FIlGsc3Iha64la8j4z4PIBEy3gAYSH5E9PPggn0Pz8A5hF6BQkh3E0xe3r8dfLOJICavZB2NVx2rgZlz4dLHCN6HI/ERFtc0/UZOq1XSfys8Hw12Cv9dMt8Yc+75P+/tKA==|920
