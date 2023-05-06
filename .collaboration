@@ -278,16 +278,7 @@
   },
   {
     "ModuleName": "PCPage/页面1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:25:20.7040625+08:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\验证页面命名\\页面1.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "MasterPages/流程母版页面文件夹",
@@ -416,18 +407,6 @@
   },
   {
     "ModuleName": "Plugin",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\EmmaZhao",
-      "Email": "emma.zhao@developertools.com"
-    },
-    "LockDateTime": "2023-05-06T16:25:39.2186493+08:00",
-    "ModuleType": 40,
-    "ToRemoveFiles": [
-      "Plugin\\インラインフレームタブ-9_0_100_0.zip",
-      "Plugin\\カレントレコードの設定コマンド-9_0_100_0(1).zip",
-      "Plugin\\メニュー／ツリービュー型セル-9_0_100_0(1).zip",
-      "Plugin\\選択行表示パネル型セル-9_0_100_0(1).zip"
-    ]
+    "ModuleType": 40
   }
 ]
