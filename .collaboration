@@ -1,1 +1,421 @@
-[{"ModuleName":"Tables/流程表文件夹","ModuleType":22},{"ModuleName":"TableProcessView/ACT_HI_COMMENT_View","ModuleType":30,"ExclusiveType":0},{"ModuleName":"TableProcessView/ACT_HI_PROCINST_View","ModuleType":30,"ExclusiveType":0},{"ModuleName":"TableProcessView/ACT_HI_TASKINST_View","ModuleType":30,"ExclusiveType":0},{"ModuleName":"TableProcessView/ACT_RE_PROCDEF_View","ModuleType":30,"ExclusiveType":0},{"ModuleName":"TableProcessView/ACT_RU_TASK_View","ModuleType":30,"ExclusiveType":0},{"ModuleName":"Table/_5000行数据","ModuleType":7,"ExclusiveType":0},{"ModuleName":"Table/产品列表页面","ModuleType":7,"ExclusiveType":0},{"ModuleName":"Table/汽车企业信息","ModuleType":7,"ExclusiveType":0},{"ModuleName":"Table/汽车销售信息","ModuleType":7,"ExclusiveType":0},{"ModuleName":"Pages/内建手机页面","ModuleType":6},{"ModuleName":"MobilePage/FGC_401页面_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_两步验证_扫码页面_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_两步验证_验证页面_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_修改密码_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_修改用户信息_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_忘记密码_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_登录_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_维护中_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_邮件订阅_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_重置密码_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_重置密码发送邮件成功_手机版","ModuleType":2},{"ModuleName":"Pages/内建页面","ModuleType":6},{"ModuleName":"PCPage/FGC_401页面","ModuleType":1},{"ModuleName":"PCPage/FGC_两步验证_扫码页面","ModuleType":1},{"ModuleName":"PCPage/FGC_两步验证_验证页面","ModuleType":1},{"ModuleName":"PCPage/FGC_修改密码","ModuleType":1},{"ModuleName":"PCPage/FGC_修改用户信息","ModuleType":1},{"ModuleName":"PCPage/FGC_忘记密码","ModuleType":1},{"ModuleName":"PCPage/FGC_登录","ModuleType":1},{"ModuleName":"PCPage/FGC_维护中","ModuleType":1},{"ModuleName":"PCPage/FGC_邮件订阅","ModuleType":1},{"ModuleName":"PCPage/FGC_重置密码","ModuleType":1},{"ModuleName":"PCPage/FGC_重置密码发送邮件成功","ModuleType":1},{"ModuleName":"Pages/流程页面文件夹","ModuleType":6},{"ModuleName":"PCPage/FGC_任务详情","ModuleType":1},{"ModuleName":"PCPage/FGC_审批记录","ModuleType":1},{"ModuleName":"PCPage/FGC_我发起的","ModuleType":1},{"ModuleName":"PCPage/FGC_我委托的","ModuleType":1},{"ModuleName":"PCPage/FGC_我的已办","ModuleType":1},{"ModuleName":"PCPage/FGC_我的已阅","ModuleType":1},{"ModuleName":"PCPage/FGC_我的待办","ModuleType":1},{"ModuleName":"PCPage/FGC_我的待阅","ModuleType":1},{"ModuleName":"PCPage/FGC_流程列表","ModuleType":1},{"ModuleName":"PCPage/FGC_流程追踪","ModuleType":1},{"ModuleName":"Pages/流程页面文件夹_手机版","ModuleType":6},{"ModuleName":"MobilePage/FGC_任务详情_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_审批记录_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_我发起的_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_我委托的_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_我的已办_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_我的已阅_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_我的待办_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_我的待阅_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_流程列表_手机版","ModuleType":2},{"ModuleName":"MobilePage/FGC_流程追踪_手机版","ModuleType":2},{"ModuleName":"Pages/清除选择行","ModuleType":6},{"ModuleName":"PCPage/simpletestforselection","ModuleType":1},{"ModuleName":"Pages/错误警告信息","ModuleType":6},{"ModuleName":"PCPage/CellNameinUserControl","ModuleType":1},{"ModuleName":"PCPage/PC页面警告","ModuleType":1},{"ModuleName":"PCPage/Repeater","ModuleType":1},{"ModuleName":"MobilePage/手机页面显示","ModuleType":2},{"ModuleName":"PCPage/页面容器","ModuleType":1},{"ModuleName":"Pages/验证页面命名","ModuleType":6},{"ModuleName":"PCPage/simplename","ModuleType":1},{"ModuleName":"PCPage/修改浮动图片","ModuleType":1},{"ModuleName":"PCPage/页面1","ModuleType":1},{"ModuleName":"MasterPages/流程母版页面文件夹","ModuleType":24},{"ModuleName":"MasterPCPage/FGC_流程中心","ModuleType":3},{"ModuleName":"MasterMobilePage/FGC_流程中心_手机版","ModuleType":4},{"ModuleName":"MasterPCPage/FGC_ユーザーマスターページ","ModuleType":3},{"ModuleName":"MasterPCPage/FGC_母版页","ModuleType":3},{"ModuleName":"UserControlPage/UserControl","ModuleType":31},{"ModuleName":"UserControlPage/清除表格选项","ModuleType":31},{"ModuleName":"ServerCommand/服务端命令1","ModuleType":15},{"ModuleName":"ShareCommandContainer/定义参数命令","ModuleType":36},{"ModuleName":"ShareCommandContainer/命令参数","ModuleType":36},{"ModuleName":"ShareCommandContainer/报表和模板命令","ModuleType":36},{"ModuleName":"Reports/RDL报表","ModuleType":19},{"ModuleName":"RdlReport/RDL报表设计","ModuleType":18},{"ModuleName":"PageReport/信息统计","ModuleType":17},{"ModuleName":"PageReport/页面报表-表单打印","ModuleType":17},{"ModuleName":"ProcessItem/验证流程在线编辑","ModuleType":28,"ExclusiveType":1},{"ModuleName":"ApplicationSetting","ModuleType":8},{"ModuleName":"Theme","ModuleType":9},{"ModuleName":"image/Built-in Images","ModuleType":37},{"ModuleName":"Image/fgc_built-in-page-logo.png","ModuleType":38},{"ModuleName":"Image/fgc_built-in-page-maintained.png","ModuleType":38},{"ModuleName":"Image/fgc_loading.gif","ModuleType":38},{"ModuleName":"Image/fgc_logo_dark.png","ModuleType":38},{"ModuleName":"Image/fgc_logo_light.png","ModuleType":38},{"ModuleName":"Image/download.jpg","ModuleType":38},{"ModuleName":"UserService","ModuleType":11},{"ModuleName":"CustomLibrary","ModuleType":12},{"ModuleName":"MapJsonFile","ModuleType":14},{"ModuleName":"DataContectionSet","ModuleType":25},{"ModuleName":"Upload","ModuleType":26},{"ModuleName":"PublishSetting","ModuleType":39},{"ModuleName":"Plugin","ModuleType":40}]
+[
+  {
+    "ModuleName": "Tables/流程表文件夹",
+    "ModuleType": 22
+  },
+  {
+    "ModuleName": "TableProcessView/ACT_HI_COMMENT_View",
+    "ModuleType": 30,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "TableProcessView/ACT_HI_PROCINST_View",
+    "ModuleType": 30,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "TableProcessView/ACT_HI_TASKINST_View",
+    "ModuleType": 30,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "TableProcessView/ACT_RE_PROCDEF_View",
+    "ModuleType": 30,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "TableProcessView/ACT_RU_TASK_View",
+    "ModuleType": 30,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/_5000行数据",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/产品列表页面",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/汽车企业信息",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Table/汽车销售信息",
+    "ModuleType": 7,
+    "ExclusiveType": 0
+  },
+  {
+    "ModuleName": "Pages/内建手机页面",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "MobilePage/FGC_401页面_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_两步验证_扫码页面_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_两步验证_验证页面_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_修改密码_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_修改用户信息_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_忘记密码_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_登录_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_维护中_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_邮件订阅_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_重置密码_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_重置密码发送邮件成功_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "Pages/内建页面",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "PCPage/FGC_401页面",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_两步验证_扫码页面",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_两步验证_验证页面",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_修改密码",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_修改用户信息",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_忘记密码",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_登录",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_维护中",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_邮件订阅",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_重置密码",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_重置密码发送邮件成功",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "Pages/流程页面文件夹",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "PCPage/FGC_任务详情",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_审批记录",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_我发起的",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_我委托的",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_我的已办",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_我的已阅",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_我的待办",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_我的待阅",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_流程列表",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/FGC_流程追踪",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "Pages/流程页面文件夹_手机版",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "MobilePage/FGC_任务详情_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_审批记录_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_我发起的_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_我委托的_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_我的已办_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_我的已阅_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_我的待办_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_我的待阅_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_流程列表_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "MobilePage/FGC_流程追踪_手机版",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "Pages/清除选择行",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "PCPage/simpletestforselection",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "Pages/错误警告信息",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "PCPage/CellNameinUserControl",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/PC页面警告",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/Repeater",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "MobilePage/手机页面显示",
+    "ModuleType": 2
+  },
+  {
+    "ModuleName": "PCPage/页面容器",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "Pages/验证页面命名",
+    "ModuleType": 6
+  },
+  {
+    "ModuleName": "PCPage/simplename",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/修改浮动图片",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "PCPage/页面1",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\EmmaZhao",
+      "Email": "emma.zhao@developertools.com"
+    },
+    "LockDateTime": "2023-05-06T16:25:20.7040625+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\验证页面命名\\页面1.json"
+    ]
+  },
+  {
+    "ModuleName": "MasterPages/流程母版页面文件夹",
+    "ModuleType": 24
+  },
+  {
+    "ModuleName": "MasterPCPage/FGC_流程中心",
+    "ModuleType": 3
+  },
+  {
+    "ModuleName": "MasterMobilePage/FGC_流程中心_手机版",
+    "ModuleType": 4
+  },
+  {
+    "ModuleName": "MasterPCPage/FGC_ユーザーマスターページ",
+    "ModuleType": 3
+  },
+  {
+    "ModuleName": "MasterPCPage/FGC_母版页",
+    "ModuleType": 3
+  },
+  {
+    "ModuleName": "UserControlPage/UserControl",
+    "ModuleType": 31
+  },
+  {
+    "ModuleName": "UserControlPage/清除表格选项",
+    "ModuleType": 31
+  },
+  {
+    "ModuleName": "ServerCommand/服务端命令1",
+    "ModuleType": 15
+  },
+  {
+    "ModuleName": "ShareCommandContainer/定义参数命令",
+    "ModuleType": 36
+  },
+  {
+    "ModuleName": "ShareCommandContainer/命令参数",
+    "ModuleType": 36
+  },
+  {
+    "ModuleName": "ShareCommandContainer/报表和模板命令",
+    "ModuleType": 36
+  },
+  {
+    "ModuleName": "Reports/RDL报表",
+    "ModuleType": 19
+  },
+  {
+    "ModuleName": "RdlReport/RDL报表设计",
+    "ModuleType": 18
+  },
+  {
+    "ModuleName": "PageReport/信息统计",
+    "ModuleType": 17
+  },
+  {
+    "ModuleName": "PageReport/页面报表-表单打印",
+    "ModuleType": 17
+  },
+  {
+    "ModuleName": "ProcessItem/验证流程在线编辑",
+    "ModuleType": 28,
+    "ExclusiveType": 1
+  },
+  {
+    "ModuleName": "ApplicationSetting",
+    "ModuleType": 8
+  },
+  {
+    "ModuleName": "Theme",
+    "ModuleType": 9
+  },
+  {
+    "ModuleName": "image/Built-in Images",
+    "ModuleType": 37
+  },
+  {
+    "ModuleName": "Image/fgc_built-in-page-logo.png",
+    "ModuleType": 38
+  },
+  {
+    "ModuleName": "Image/fgc_built-in-page-maintained.png",
+    "ModuleType": 38
+  },
+  {
+    "ModuleName": "Image/fgc_loading.gif",
+    "ModuleType": 38
+  },
+  {
+    "ModuleName": "Image/fgc_logo_dark.png",
+    "ModuleType": 38
+  },
+  {
+    "ModuleName": "Image/fgc_logo_light.png",
+    "ModuleType": 38
+  },
+  {
+    "ModuleName": "Image/download.jpg",
+    "ModuleType": 38
+  },
+  {
+    "ModuleName": "UserService",
+    "ModuleType": 11
+  },
+  {
+    "ModuleName": "CustomLibrary",
+    "ModuleType": 12
+  },
+  {
+    "ModuleName": "MapJsonFile",
+    "ModuleType": 14
+  },
+  {
+    "ModuleName": "DataContectionSet",
+    "ModuleType": 25
+  },
+  {
+    "ModuleName": "Upload",
+    "ModuleType": 26
+  },
+  {
+    "ModuleName": "PublishSetting",
+    "ModuleType": 39
+  },
+  {
+    "ModuleName": "Plugin",
+    "ModuleType": 40
+  }
+]
